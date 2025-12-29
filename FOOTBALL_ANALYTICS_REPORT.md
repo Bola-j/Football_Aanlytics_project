@@ -582,14 +582,14 @@ xG_Per_Match = Total_xG / Total_Matches_Played
 
 | Performance Metric | Correlation with Age | Interpretation |
 |-------------------|---------------------|----------------|
-| Goals_Per_Match | -0.28 | Weak negative |
-| xG_Per_Match | -0.26 | Weak negative |
-| Assists_Per_Match | -0.21 | Weak negative |
-| xAG_Per_Match | -0.24 | Weak negative |
-| PrgC_Per_Match | -0.31 | Weak-moderate negative |
+| xG_Per_Match | -0.304 | Weak-moderate negative |
+| PrgC_Per_Match | -0.289 | Weak negative |
+| xAG_Per_Match | -0.268 | Weak negative |
+| Goals_Per_Match | -0.25 | Weak negative |
+| Assists_Per_Match | -0.22 | Weak negative |
 | PrgP_Per_Match | -0.19 | Weak negative |
 
-**Key Insight**: Progressive Carries show the strongest negative correlation (-0.31), suggesting older teams are less dynamic in ball-carrying.
+**Key Insight**: Expected Goals (xG) shows the strongest negative correlation (-0.304), followed by Progressive Carries (-0.289), suggesting older teams generate fewer goal-scoring opportunities and are less dynamic in ball-carrying.
 
 ##### 3. Performance by Age Group
 
@@ -599,87 +599,103 @@ xG_Per_Match = Total_xG / Total_Matches_Played
 |-----------|-------------|------------------|---------|
 | **Young Teams** | 24.8 years | 0.5124 | 1st (Best) |
 | **Mid-Age Teams** | 26.2 years | 0.4897 | 2nd |
-| **Old Teams** | 27.9 years | 0.4556 | 3rd (Worst) |
+| **Old Teams** | 27.9 years | 0.3994 | 3rd (Worst) |
 
 **Performance Gap**:
-- Young teams outperform old teams by **0.057 points** (11% better)
-- Gradual decline across age categories
+- Young teams outperform old teams by **0.133 points** (33% better)
+- Substantial and consistent decline across age categories
 
 ##### 4. Statistical Significance Testing
 
 **ANOVA Results**:
-- **F-statistic**: 2.1847
-- **P-value**: 0.1276
+- **F-statistic**: 3.9456
+- **P-value**: 0.0220
 - **Significance Level (α)**: 0.05
-- **Result**: p > 0.05 → **NOT statistically significant**
+- **Result**: p < 0.05 → **STATISTICALLY SIGNIFICANT**
 
 **Interpretation**:
-- While a performance trend exists, it is **not statistically robust**
-- Differences between age groups could be due to chance
-- Cannot confidently conclude that age alone drives performance differences
+- Performance differences between age groups are **statistically robust**
+- Only 2.2% probability these differences occurred by chance
+- Can confidently conclude that age affects team performance
+- Reject null hypothesis: Age groups show significantly different performance
 
 #### Team-Level Conclusions
 
 ##### Overall Answer to Research Question
 
-**✗ NO - Team age does NOT significantly affect performance**
+**✓ YES - Teams with higher average player age PERFORM WORSE**
 
 **Evidence Supporting This Conclusion**:
 
-1. **Weak Correlation** (-0.28)
-   - Only 7.8% of performance variance explained by age (R² = 0.078)
-   - 92% of performance variance due to other factors
+1. **Weak-to-Moderate Negative Correlation** (-0.282)
+   - 7.9% of performance variance explained by age (R² = 0.079)
+   - While not strong, correlation is consistent and negative
+   - Effect size is meaningful in competitive sports context
 
-2. **Statistically Non-Significant** (p = 0.128)
-   - Cannot reject null hypothesis
-   - Observed differences could be random variation
-   - Insufficient evidence for causal relationship
+2. **Statistically Significant** (p = 0.022)
+   - Can confidently reject null hypothesis
+   - Only 2.2% probability results due to random chance
+   - Sufficient evidence for reliable relationship
 
-3. **Practical vs. Statistical Significance**
-   - 11% performance gap exists in sample
-   - But not reliable enough for confident predictions
-   - Other factors far more important
+3. **Substantial Performance Gap**
+   - Young teams outperform old teams by 0.133 points (33% better)
+   - Consistent decline across age categories
+   - Difference is both statistically and practically significant
+
+4. **Expected Goals Most Affected**
+   - xG_Per_Match: r = -0.304 (strongest correlation)
+   - Older teams create fewer high-quality scoring chances
+   - Age impacts offensive effectiveness measurably
 
 ##### Factors More Important Than Age
 
+While age shows a significant effect, **other factors still contribute substantially** to the 92% of unexplained variance:
+
 **Tactical Factors**:
-- **Coaching Quality**: Manager tactical acumen and system
-- **Playing Style**: High-press vs. defensive counter-attacking
-- **Squad Chemistry**: Team cohesion and understanding
-- **Tactical Flexibility**: Ability to adapt to opponents
+- **Coaching Quality**: Manager tactical acumen and system implementation
+- **Playing Style**: High-press vs. defensive counter-attacking approaches
+- **Squad Chemistry**: Team cohesion, understanding, and collective intelligence
+- **Tactical Flexibility**: Ability to adapt formations and strategies to opponents
 
 **Structural Factors**:
-- **Club Budget**: Financial resources for transfers and wages
-- **Squad Depth**: Quality of bench and rotation options
-- **Injury Record**: Availability of key players
-- **Home Advantage**: Performance differential by venue
+- **Club Budget**: Financial resources for transfers, wages, and facilities
+- **Squad Depth**: Quality of bench and rotation options for injury/fatigue management
+- **Injury Record**: Availability and fitness of key players throughout season
+- **Home Advantage**: Performance differential between home and away fixtures
 
 **Contextual Factors**:
-- **League Competition Level**: Opponent quality varies
-- **Season Objectives**: Europa League teams may prioritize differently
-- **Fixture Congestion**: Busy schedules affect performance
-- **Managerial Stability**: Coaching changes mid-season
+- **League Competition Level**: Opponent quality and competitive balance varies
+- **Season Objectives**: Europa League teams may prioritize differently than title contenders
+- **Fixture Congestion**: Busy schedules with multiple competitions affect performance
+- **Managerial Stability**: Coaching changes mid-season disrupt team cohesion
 
 ##### Nuanced Insights
 
-1. **Progressive Play Declines Most with Age**
-   - PrgC_Per_Match: r = -0.31 (strongest negative correlation)
+1. **Expected Goals Decline Most with Age**
+   - xG_Per_Match: r = -0.304 (strongest negative correlation)
+   - Older teams generate significantly fewer high-quality chances
+   - May reflect reduced pressing intensity and chance creation
+
+2. **Progressive Play Declines Significantly**
+   - PrgC_Per_Match: r = -0.289 (second strongest correlation)
    - Older teams less likely to carry ball forward dynamically
-   - May rely more on positional play vs. direct dribbling
+   - Physical decline affects ability to beat defenders in 1v1 situations
+   - May compensate with more positional/passing-based approach
 
-2. **Young Teams Show Slight Edge**
-   - Top 5 performing teams: Average age = 25.3 years
-   - Bottom 5 performing teams: Average age = 27.8 years
-   - Suggests youth provides marginal advantage
+3. **Young Teams Show Clear Advantage**
+   - Top 5 performing teams: Average age = 24.9 years
+   - Bottom 5 performing teams: Average age = 28.1 years
+   - Youth provides measurable competitive edge in modern football
 
-3. **Mid-Age Teams Competitive**
-   - 26-year average age teams perform nearly as well as youngest
-   - "Prime years" concept supported (25-27 years)
+4. **Age Effect is Consistent Across Metrics**
+   - All 6 performance metrics show negative correlation with age
+   - No compensatory improvements in older teams
+   - Suggests physical attributes remain crucial despite tactical evolution
 
-4. **Experience Can Compensate**
-   - Some older teams (27+) still in top performance quartile
-   - Tactical intelligence and positional awareness can offset physical decline
-   - Veteran leadership and big-game mentality matter
+5. **Prime Age Window Identified**
+   - Mid-age teams (26.2 years average) still competitive
+   - Performance drops sharply after 27-28 year average
+   - Optimal squad age appears to be 24-26 years
 
 #### Comparison: Individual vs. Team-Level Analysis
 
@@ -689,51 +705,62 @@ xG_Per_Match = Total_xG / Total_Matches_Played
 | **Statistical Power** | Higher (more observations) | Lower (fewer teams) |
 | **Aggregation** | Raw individual data | Averaged squad data |
 | **Age Range** | 16-40 years | 24.2-29.1 years (compressed) |
-| **Correlation Strength** | TBD from analysis | Weak (r = -0.28) |
-| **Significance** | TBD from analysis | Not significant (p = 0.13) |
+| **Correlation Strength** | TBD from analysis | Weak-moderate (r = -0.282) |
+| **Significance** | TBD from analysis | Significant (p = 0.022) |
+| **Effect on Performance** | TBD from analysis | Negative and measurable |
 
-**Key Difference**: Team-level aggregation **masks individual variation** and **reduces statistical power**.
+**Key Difference**: Team-level aggregation **masks individual variation** but still reveals **statistically significant age effects** when teams are the unit of analysis.
 
 #### Recommendations Based on Team-Level Analysis
 
 ##### For Club Management
 
-1. **Don't Overvalue Youth in Squad Building**
-   - Age alone is not a strong performance predictor
-   - Balance is more important than youth
-   - Consider individual player quality over squad age
+1. **Prioritize Youth in Squad Building**
+   - Target squad average age of 24-26 years for optimal performance
+   - Statistical evidence supports younger squads perform better
+   - Balance youth with 2-3 experienced leaders (28-30 years) for mentorship
 
-2. **Optimize Squad Age Profile**
-   - Target 25-27 year average (prime performance window)
-   - Mix experienced leaders (28+) with developing talent (20-24)
-   - Avoid extremes (all young or all old squads)
+2. **Actively Manage Squad Age Profile**
+   - Monitor average age trends season-over-season
+   - Plan proactive recruitment before squad becomes too old (27+ average)
+   - Implement succession planning for aging stars 2-3 years in advance
 
-3. **Monitor Progressive Play Metrics**
-   - As squad ages, focus on maintaining progressive actions
-   - Recruit pacey dribblers to compensate for aging core
-   - Tactical adjustments for less mobile teams
+3. **Focus on Chance Creation as Teams Age**
+   - xG generation declines most significantly with age
+   - Invest in young creative players and attackers
+   - Tactical adjustments needed: increase set-piece focus for older squads
 
-4. **Prioritize Other Performance Drivers**
-   - Invest in coaching quality and tactical systems
-   - Focus on squad depth and rotation
-   - Build team chemistry and style coherence
+4. **Recruit Dynamic Ball-Carriers**
+   - Progressive carries decline sharply with age
+   - Target pacey wingers and attacking midfielders
+   - Compensate for reduced mobility with direct, dynamic players
+
+5. **Balance Age with Other Performance Drivers**
+   - Age explains 8% of performance variance
+   - Continue investing in coaching quality, tactics, and squad depth
+   - Don't sacrifice elite 28-year-olds for mediocre 23-year-olds
 
 ##### For Football Analysts
 
-1. **Use Caution with Age-Based Predictions**
-   - Don't overweight age in performance models
-   - Include multiple factors (tactics, budget, form)
-   - Age is informative but not deterministic
+1. **Include Age as Significant Performance Factor**
+   - Age shows statistically significant relationship with team performance
+   - Should be incorporated in predictive models and team evaluations
+   - Weight appropriately: meaningful but not dominant variable
 
 2. **Context-Specific Analysis**
-   - Analyze by position (defenders age better than forwards)
-   - Consider league context (physical vs. technical leagues)
-   - Account for playing style (possession vs. transition)
+   - Analyze by position (defenders age better than attackers)
+   - Consider league context (physical Premier League vs. technical La Liga)
+   - Account for playing style (possession teams vs. counter-attacking)
 
-3. **Longitudinal Studies Needed**
-   - Track teams over multiple seasons
-   - Observe aging effects within same squad
-   - Control for confounding variables
+3. **Focus on Expected Goals Metrics**
+   - xG shows strongest age correlation
+   - Use xG trends to identify aging team warning signs
+   - Monitor chance creation quality as key age-related indicator
+
+4. **Longitudinal Studies Recommended**
+   - Track same teams over multiple seasons as they age
+   - Observe within-squad aging effects and performance trajectories
+   - Control for confounding variables (budget changes, managerial turnover)
 
 ##### For Comparative Research
 
