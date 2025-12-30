@@ -1,0 +1,761 @@
+Team,Date,Venue,Opponent,Result,GF,GA,Poss
+Arsenal,2023-08-12,Home,Nott'ham Forest,W,2,1,78.0
+Arsenal,2023-08-21,Away,Crystal Palace,W,1,0,53.0
+Arsenal,2023-08-26,Home,Fulham,D,2,2,71.0
+Arsenal,2023-09-03,Home,Manchester Utd,W,3,1,55.0
+Arsenal,2023-09-17,Away,Everton,W,1,0,74.0
+Arsenal,2023-09-24,Home,Tottenham,D,2,2,47.0
+Arsenal,2023-09-30,Away,Bournemouth,W,4,0,57.0
+Arsenal,2023-10-08,Home,Manchester City,W,1,0,49.0
+Arsenal,2023-10-21,Away,Chelsea,D,2,2,56.0
+Arsenal,2023-10-28,Home,Sheffield Utd,W,5,0,67.0
+Arsenal,2023-11-04,Away,Newcastle Utd,L,0,1,58.0
+Arsenal,2023-11-11,Home,Burnley,W,3,1,63.0
+Arsenal,2023-11-25,Away,Brentford,W,1,0,63.0
+Arsenal,2023-12-02,Home,Wolves,W,2,1,57.0
+Arsenal,2023-12-05,Away,Luton Town,W,4,3,66.0
+Arsenal,2023-12-09,Away,Aston Villa,L,0,1,61.0
+Arsenal,2023-12-17,Home,Brighton,W,2,0,49.0
+Arsenal,2023-12-23,Away,Liverpool,D,1,1,48.0
+Arsenal,2023-12-28,Home,West Ham,L,0,2,73.0
+Arsenal,2023-12-31,Away,Fulham,L,1,2,60.0
+Arsenal,2024-01-20,Home,Crystal Palace,W,5,0,60.0
+Arsenal,2024-01-30,Away,Nott'ham Forest,W,2,1,73.0
+Arsenal,2024-02-04,Home,Liverpool,W,3,1,43.0
+Arsenal,2024-02-11,Away,West Ham,W,6,0,70.0
+Arsenal,2024-02-17,Away,Burnley,W,5,0,64.0
+Arsenal,2024-02-24,Home,Newcastle Utd,W,4,1,55.0
+Arsenal,2024-03-04,Away,Sheffield Utd,W,6,0,80.0
+Arsenal,2024-03-09,Home,Brentford,W,2,1,71.0
+Arsenal,2024-03-31,Away,Manchester City,D,0,0,28.0
+Arsenal,2024-04-03,Home,Luton Town,W,2,0,58.0
+Arsenal,2024-04-06,Away,Brighton,W,3,0,46.0
+Arsenal,2024-04-14,Home,Aston Villa,L,0,2,52.0
+Arsenal,2024-04-20,Away,Wolves,W,2,0,54.0
+Arsenal,2024-04-23,Home,Chelsea,W,5,0,45.0
+Arsenal,2024-04-28,Away,Tottenham,W,3,2,38.0
+Arsenal,2024-05-04,Home,Bournemouth,W,3,0,55.0
+Arsenal,2024-05-12,Away,Manchester Utd,W,1,0,46.0
+Arsenal,2024-05-19,Home,Everton,W,2,1,68.0
+Aston Villa ,2023-08-12,Away,Newcastle Utd,L,1,5,48.0
+Aston Villa ,2023-08-20,Home,Everton,W,4,0,60.0
+Aston Villa ,2023-08-27,Away,Burnley,W,3,1,43.0
+Aston Villa ,2023-09-03,Away,Liverpool,L,0,3,37.0
+Aston Villa ,2023-09-16,Home,Crystal Palace,W,3,1,66.0
+Aston Villa ,2023-09-24,Away,Chelsea,W,1,0,47.0
+Aston Villa ,2023-09-30,Home,Brighton,W,6,1,39.0
+Aston Villa ,2023-10-08,Away,Wolves,D,1,1,53.0
+Aston Villa ,2023-10-22,Home,West Ham,W,4,1,58.0
+Aston Villa ,2023-10-29,Home,Luton Town,W,3,1,70.0
+Aston Villa ,2023-11-05,Away,Nott'ham Forest,L,0,2,73.0
+Aston Villa ,2023-11-12,Home,Fulham,W,3,1,51.0
+Aston Villa ,2023-11-26,Away,Tottenham,W,2,1,38.0
+Aston Villa ,2023-12-03,Away,Bournemouth,D,2,2,62.0
+Aston Villa ,2023-12-06,Home,Manchester City,W,1,0,46.0
+Aston Villa ,2023-12-09,Home,Arsenal,W,1,0,39.0
+Aston Villa ,2023-12-17,Away,Brentford,W,2,1,66.0
+Aston Villa ,2023-12-22,Home,Sheffield Utd,D,1,1,77.0
+Aston Villa ,2023-12-26,Away,Manchester Utd,L,2,3,54.0
+Aston Villa ,2023-12-30,Home,Burnley,W,3,2,64.0
+Aston Villa ,2024-01-14,Away,Everton,D,0,0,68.0
+Aston Villa ,2024-01-30,Home,Newcastle Utd,L,1,3,61.0
+Aston Villa ,2024-02-03,Away,Sheffield Utd,W,5,0,63.0
+Aston Villa ,2024-02-11,Home,Manchester Utd,L,1,2,56.0
+Aston Villa ,2024-02-17,Away,Fulham,W,2,1,48.0
+Aston Villa ,2024-02-24,Home,Nott'ham Forest,W,4,2,58.0
+Aston Villa ,2024-03-02,Away,Luton Town,W,3,2,54.0
+Aston Villa ,2024-03-10,Home,Tottenham,L,0,4,32.0
+Aston Villa ,2024-03-17,Away,West Ham,D,1,1,69.0
+Aston Villa ,2024-03-30,Home,Wolves,W,2,0,48.0
+Aston Villa ,2024-04-03,Away,Manchester City,L,1,4,33.0
+Aston Villa ,2024-04-06,Home,Brentford,D,3,3,69.0
+Aston Villa ,2024-04-14,Away,Arsenal,W,2,0,48.0
+Aston Villa ,2024-04-21,Home,Bournemouth,W,3,1,56.0
+Aston Villa ,2024-04-27,Home,Chelsea,D,2,2,29.0
+Aston Villa ,2024-05-05,Away,Brighton,L,0,1,48.0
+Aston Villa ,2024-05-13,Home,Liverpool,D,3,3,41.0
+Aston Villa ,2024-05-19,Away,Crystal Palace,L,0,5,46.0
+Bournemouth,2023-08-12,Home,West Ham,D,1,1,62.0
+Bournemouth,2023-08-19,Away,Liverpool,L,1,3,36.0
+Bournemouth,2023-08-26,Home,Tottenham,L,0,2,44.0
+Bournemouth,2023-09-02,Away,Brentford,D,2,2,40.0
+Bournemouth,2023-09-17,Home,Chelsea,D,0,0,36.0
+Bournemouth,2023-09-24,Away,Brighton,L,1,3,39.0
+Bournemouth,2023-09-30,Home,Arsenal,L,0,4,43.0
+Bournemouth,2023-10-07,Away,Everton,L,0,3,52.0
+Bournemouth,2023-10-21,Home,Wolves,L,1,2,35.0
+Bournemouth,2023-10-28,Home,Burnley,W,2,1,45.0
+Bournemouth,2023-11-04,Away,Manchester City,L,1,6,35.0
+Bournemouth,2023-11-11,Home,Newcastle Utd,W,2,0,48.0
+Bournemouth,2023-11-25,Away,Sheffield Utd,W,3,1,54.0
+Bournemouth,2023-12-03,Home,Aston Villa,D,2,2,38.0
+Bournemouth,2023-12-06,Away,Crystal Palace,W,2,0,41.0
+Bournemouth,2023-12-09,Away,Manchester Utd,W,3,0,32.0
+Bournemouth,2023-12-23,Away,Nott'ham Forest,W,3,2,66.0
+Bournemouth,2023-12-26,Home,Fulham,W,3,0,43.0
+Bournemouth,2023-12-31,Away,Tottenham,L,1,3,50.0
+Bournemouth,2024-01-21,Home,Liverpool,L,0,4,40.0
+Bournemouth,2024-02-01,Away,West Ham,D,1,1,52.0
+Bournemouth,2024-02-04,Home,Nott'ham Forest,D,1,1,45.0
+Bournemouth,2024-02-10,Away,Fulham,L,1,3,51.0
+Bournemouth,2024-02-17,Away,Newcastle Utd,D,2,2,38.0
+Bournemouth,2024-02-24,Home,Manchester City,L,0,1,38.0
+Bournemouth,2024-03-03,Away,Burnley,W,2,0,26.0
+Bournemouth,2024-03-09,Home,Sheffield Utd,D,2,2,69.0
+Bournemouth,2024-03-13,Home,Luton Town,W,4,3,59.0
+Bournemouth,2024-03-30,Home,Everton,W,2,1,48.0
+Bournemouth,2024-04-02,Home,Crystal Palace,W,1,0,50.0
+Bournemouth,2024-04-06,Away,Luton Town,L,1,2,45.0
+Bournemouth,2024-04-13,Home,Manchester Utd,D,2,2,43.0
+Bournemouth,2024-04-21,Away,Aston Villa,L,1,3,44.0
+Bournemouth,2024-04-24,Away,Wolves,W,1,0,37.0
+Bournemouth,2024-04-28,Home,Brighton,W,3,0,31.0
+Bournemouth,2024-05-04,Away,Arsenal,L,0,3,45.0
+Bournemouth,2024-05-11,Home,Brentford,L,1,2,48.0
+Bournemouth,2024-05-19,Away,Chelsea,L,1,2,39.0
+Brentford,2023-08-13,Home,Tottenham,D,2,2,31.0
+Brentford,2023-08-19,Away,Fulham,W,3,0,45.0
+Brentford,2023-08-26,Home,Crystal Palace,D,1,1,60.0
+Brentford,2023-09-02,Home,Bournemouth,D,2,2,60.0
+Brentford,2023-09-16,Away,Newcastle Utd,L,0,1,44.0
+Brentford,2023-09-23,Home,Everton,L,1,3,57.0
+Brentford,2023-10-01,Away,Nott'ham Forest,D,1,1,59.0
+Brentford,2023-10-07,Away,Manchester Utd,L,1,2,36.0
+Brentford,2023-10-21,Home,Burnley,W,3,0,50.0
+Brentford,2023-10-28,Away,Chelsea,W,2,0,32.0
+Brentford,2023-11-04,Home,West Ham,W,3,2,58.0
+Brentford,2023-11-12,Away,Liverpool,L,0,3,42.0
+Brentford,2023-11-25,Home,Arsenal,L,0,1,37.0
+Brentford,2023-12-02,Home,Luton Town,W,3,1,68.0
+Brentford,2023-12-06,Away,Brighton,L,1,2,39.0
+Brentford,2023-12-09,Away,Sheffield Utd,L,0,1,59.0
+Brentford,2023-12-17,Home,Aston Villa,L,1,2,34.0
+Brentford,2023-12-27,Home,Wolves,L,1,4,60.0
+Brentford,2023-12-30,Away,Crystal Palace,L,1,3,54.0
+Brentford,2024-01-20,Home,Nott'ham Forest,W,3,2,48.0
+Brentford,2024-01-31,Away,Tottenham,L,2,3,33.0
+Brentford,2024-02-05,Home,Manchester City,L,1,3,28.0
+Brentford,2024-02-10,Away,Wolves,W,2,0,29.0
+Brentford,2024-02-17,Home,Liverpool,L,1,4,38.0
+Brentford,2024-02-20,Away,Manchester City,L,0,1,30.0
+Brentford,2024-02-26,Away,West Ham,L,2,4,59.0
+Brentford,2024-03-02,Home,Chelsea,D,2,2,33.0
+Brentford,2024-03-09,Away,Arsenal,L,1,2,29.0
+Brentford,2024-03-16,Away,Burnley,L,1,2,40.0
+Brentford,2024-03-30,Home,Manchester Utd,D,1,1,47.0
+Brentford,2024-04-03,Home,Brighton,D,0,0,34.0
+Brentford,2024-04-06,Away,Aston Villa,D,3,3,31.0
+Brentford,2024-04-13,Home,Sheffield Utd,W,2,0,53.0
+Brentford,2024-04-20,Away,Luton Town,W,5,1,47.0
+Brentford,2024-04-27,Away,Everton,L,0,1,52.0
+Brentford,2024-05-04,Home,Fulham,D,0,0,54.0
+Brentford,2024-05-11,Away,Bournemouth,W,2,1,52.0
+Brentford,2024-05-19,Home,Newcastle Utd,L,2,4,54.0
+Brighton & Hove Albion,2023-08-12,Home,Luton Town,W,4,1,70.0
+Brighton & Hove Albion,2023-08-19,Away,Wolves,W,4,1,53.0
+Brighton & Hove Albion,2023-08-26,Home,West Ham,L,1,3,78.0
+Brighton & Hove Albion,2023-09-02,Home,Newcastle Utd,W,3,1,56.0
+Brighton & Hove Albion,2023-09-16,Away,Manchester Utd,W,3,1,56.0
+Brighton & Hove Albion,2023-09-24,Home,Bournemouth,W,3,1,61.0
+Brighton & Hove Albion,2023-09-30,Away,Aston Villa,L,1,6,61.0
+Brighton & Hove Albion,2023-10-08,Home,Liverpool,D,2,2,46.0
+Brighton & Hove Albion,2023-10-21,Away,Manchester City,L,1,2,45.0
+Brighton & Hove Albion,2023-10-29,Home,Fulham,D,1,1,71.0
+Brighton & Hove Albion,2023-11-04,Away,Everton,D,1,1,79.0
+Brighton & Hove Albion,2023-11-12,Home,Sheffield Utd,D,1,1,61.0
+Brighton & Hove Albion,2023-11-25,Away,Nott'ham Forest,W,3,2,53.0
+Brighton & Hove Albion,2023-12-03,Away,Chelsea,L,2,3,68.0
+Brighton & Hove Albion,2023-12-06,Home,Brentford,W,2,1,61.0
+Brighton & Hove Albion,2023-12-09,Home,Burnley,D,1,1,72.0
+Brighton & Hove Albion,2023-12-17,Away,Arsenal,L,0,2,51.0
+Brighton & Hove Albion,2023-12-21,Away,Crystal Palace,D,1,1,65.0
+Brighton & Hove Albion,2023-12-28,Home,Tottenham,W,4,2,45.0
+Brighton & Hove Albion,2024-01-02,Away,West Ham,D,0,0,68.0
+Brighton & Hove Albion,2024-01-22,Home,Wolves,D,0,0,72.0
+Brighton & Hove Albion,2024-01-30,Away,Luton Town,L,0,4,59.0
+Brighton & Hove Albion,2024-02-03,Home,Crystal Palace,W,4,1,68.0
+Brighton & Hove Albion,2024-02-10,Away,Tottenham,L,1,2,48.0
+Brighton & Hove Albion,2024-02-18,Away,Sheffield Utd,W,5,0,79.0
+Brighton & Hove Albion,2024-02-24,Home,Everton,D,1,1,64.0
+Brighton & Hove Albion,2024-03-02,Away,Fulham,L,0,3,70.0
+Brighton & Hove Albion,2024-03-10,Home,Nott'ham Forest,W,1,0,63.0
+Brighton & Hove Albion,2024-03-31,Away,Liverpool,L,1,2,45.0
+Brighton & Hove Albion,2024-04-03,Away,Brentford,D,0,0,66.0
+Brighton & Hove Albion,2024-04-06,Home,Arsenal,L,0,3,54.0
+Brighton & Hove Albion,2024-04-13,Away,Burnley,D,1,1,56.0
+Brighton & Hove Albion,2024-04-25,Home,Manchester City,L,0,4,36.0
+Brighton & Hove Albion,2024-04-28,Away,Bournemouth,L,0,3,69.0
+Brighton & Hove Albion,2024-05-05,Home,Aston Villa,W,1,0,52.0
+Brighton & Hove Albion,2024-05-11,Away,Newcastle Utd,D,1,1,43.0
+Brighton & Hove Albion,2024-05-15,Home,Chelsea,L,1,2,55.0
+Brighton & Hove Albion,2024-05-19,Home,Manchester Utd,L,0,2,55.0
+Burnley,2023-08-11,Home,Manchester City,L,0,3,35.0
+Burnley,2023-08-27,Home,Aston Villa,L,1,3,57.0
+Burnley,2023-09-02,Home,Tottenham,L,2,5,47.0
+Burnley,2023-09-18,Away,Nott'ham Forest,D,1,1,54.0
+Burnley,2023-09-23,Home,Manchester Utd,L,0,1,61.0
+Burnley,2023-09-30,Away,Newcastle Utd,L,0,2,47.0
+Burnley,2023-10-03,Away,Luton Town,W,2,1,51.0
+Burnley,2023-10-07,Home,Chelsea,L,1,4,38.0
+Burnley,2023-10-21,Away,Brentford,L,0,3,50.0
+Burnley,2023-10-28,Away,Bournemouth,L,1,2,55.0
+Burnley,2023-11-04,Home,Crystal Palace,L,0,2,67.0
+Burnley,2023-11-11,Away,Arsenal,L,1,3,37.0
+Burnley,2023-11-25,Home,West Ham,L,1,2,50.0
+Burnley,2023-12-02,Home,Sheffield Utd,W,5,0,63.0
+Burnley,2023-12-05,Away,Wolves,L,0,1,49.0
+Burnley,2023-12-09,Away,Brighton,D,1,1,28.0
+Burnley,2023-12-16,Home,Everton,L,0,2,61.0
+Burnley,2023-12-23,Away,Fulham,W,2,0,34.0
+Burnley,2023-12-26,Home,Liverpool,L,0,2,32.0
+Burnley,2023-12-30,Away,Aston Villa,L,2,3,36.0
+Burnley,2024-01-12,Home,Luton Town,D,1,1,39.0
+Burnley,2024-01-31,Away,Manchester City,L,1,3,26.0
+Burnley,2024-02-03,Home,Fulham,D,2,2,44.0
+Burnley,2024-02-10,Away,Liverpool,L,1,3,30.0
+Burnley,2024-02-17,Home,Arsenal,L,0,5,36.0
+Burnley,2024-02-24,Away,Crystal Palace,L,0,3,44.0
+Burnley,2024-03-03,Home,Bournemouth,L,0,2,74.0
+Burnley,2024-03-10,Away,West Ham,D,2,2,48.0
+Burnley,2024-03-16,Home,Brentford,W,2,1,60.0
+Burnley,2024-03-30,Away,Chelsea,D,2,2,31.0
+Burnley,2024-04-02,Home,Wolves,D,1,1,51.0
+Burnley,2024-04-06,Away,Everton,L,0,1,62.0
+Burnley,2024-04-13,Home,Brighton,D,1,1,44.0
+Burnley,2024-04-20,Away,Sheffield Utd,W,4,1,51.0
+Burnley,2024-04-27,Away,Manchester Utd,D,1,1,52.0
+Burnley,2024-05-04,Home,Newcastle Utd,L,1,4,47.0
+Burnley,2024-05-11,Away,Tottenham,L,1,2,37.0
+Burnley,2024-05-19,Home,Nott'ham Forest,L,1,2,72.0
+Chelsea,2023-08-13,Home,Liverpool,D,1,1,65.0
+Chelsea,2023-08-20,Away,West Ham,L,1,3,75.0
+Chelsea,2023-08-25,Home,Luton Town,W,3,0,67.0
+Chelsea,2023-09-02,Home,Nott'ham Forest,L,0,1,75.0
+Chelsea,2023-09-17,Away,Bournemouth,D,0,0,64.0
+Chelsea,2023-09-24,Home,Aston Villa,L,0,1,53.0
+Chelsea,2023-10-02,Away,Fulham,W,2,0,44.0
+Chelsea,2023-10-07,Away,Burnley,W,4,1,62.0
+Chelsea,2023-10-21,Home,Arsenal,D,2,2,44.0
+Chelsea,2023-10-28,Home,Brentford,L,0,2,68.0
+Chelsea,2023-11-06,Away,Tottenham,W,4,1,60.0
+Chelsea,2023-11-12,Home,Manchester City,D,4,4,45.0
+Chelsea,2023-11-25,Away,Newcastle Utd,L,1,4,46.0
+Chelsea,2023-12-03,Home,Brighton,W,3,2,32.0
+Chelsea,2023-12-06,Away,Manchester Utd,L,1,2,55.0
+Chelsea,2023-12-10,Away,Everton,L,0,2,71.0
+Chelsea,2023-12-16,Home,Sheffield Utd,W,2,0,78.0
+Chelsea,2023-12-24,Away,Wolves,L,1,2,68.0
+Chelsea,2023-12-27,Home,Crystal Palace,W,2,1,63.0
+Chelsea,2023-12-30,Away,Luton Town,W,3,2,48.0
+Chelsea,2024-01-13,Home,Fulham,W,1,0,55.0
+Chelsea,2024-01-31,Away,Liverpool,L,1,4,50.0
+Chelsea,2024-02-04,Home,Wolves,L,2,4,64.0
+Chelsea,2024-02-12,Away,Crystal Palace,W,3,1,77.0
+Chelsea,2024-02-17,Away,Manchester City,D,1,1,30.0
+Chelsea,2024-03-02,Away,Brentford,D,2,2,67.0
+Chelsea,2024-03-11,Home,Newcastle Utd,W,3,2,44.0
+Chelsea,2024-03-30,Home,Burnley,D,2,2,69.0
+Chelsea,2024-04-04,Home,Manchester Utd,W,4,3,57.0
+Chelsea,2024-04-07,Away,Sheffield Utd,D,2,2,68.0
+Chelsea,2024-04-15,Home,Everton,W,6,0,58.0
+Chelsea,2024-04-23,Away,Arsenal,L,0,5,55.0
+Chelsea,2024-04-27,Away,Aston Villa,D,2,2,71.0
+Chelsea,2024-05-02,Home,Tottenham,W,2,0,37.0
+Chelsea,2024-05-05,Home,West Ham,W,5,0,69.0
+Chelsea,2024-05-11,Away,Nott'ham Forest,W,3,2,67.0
+Chelsea,2024-05-15,Away,Brighton,W,2,1,45.0
+Chelsea,2024-05-19,Home,Bournemouth,W,2,1,61.0
+Crystal Palace,2023-08-12,Away,Sheffield Utd,W,1,0,68.0
+Crystal Palace,2023-08-21,Home,Arsenal,L,0,1,47.0
+Crystal Palace,2023-08-26,Away,Brentford,D,1,1,40.0
+Crystal Palace,2023-09-03,Home,Wolves,W,3,2,43.0
+Crystal Palace,2023-09-16,Away,Aston Villa,L,1,3,34.0
+Crystal Palace,2023-09-23,Home,Fulham,D,0,0,51.0
+Crystal Palace,2023-09-30,Away,Manchester Utd,W,1,0,23.0
+Crystal Palace,2023-10-07,Home,Nott'ham Forest,D,0,0,52.0
+Crystal Palace,2023-10-21,Away,Newcastle Utd,L,0,4,41.0
+Crystal Palace,2023-10-27,Home,Tottenham,L,1,2,25.0
+Crystal Palace,2023-11-04,Away,Burnley,W,2,0,33.0
+Crystal Palace,2023-11-11,Home,Everton,L,2,3,67.0
+Crystal Palace,2023-11-25,Away,Luton Town,L,1,2,61.0
+Crystal Palace,2023-12-03,Away,West Ham,D,1,1,45.0
+Crystal Palace,2023-12-06,Home,Bournemouth,L,0,2,59.0
+Crystal Palace,2023-12-09,Home,Liverpool,L,1,2,24.0
+Crystal Palace,2023-12-16,Away,Manchester City,D,2,2,26.0
+Crystal Palace,2023-12-21,Home,Brighton,D,1,1,35.0
+Crystal Palace,2023-12-27,Away,Chelsea,L,1,2,37.0
+Crystal Palace,2023-12-30,Home,Brentford,W,3,1,46.0
+Crystal Palace,2024-01-20,Away,Arsenal,L,0,5,40.0
+Crystal Palace,2024-01-30,Home,Sheffield Utd,W,3,2,53.0
+Crystal Palace,2024-02-03,Away,Brighton,L,1,4,32.0
+Crystal Palace,2024-02-12,Home,Chelsea,L,1,3,23.0
+Crystal Palace,2024-02-19,Away,Everton,D,1,1,39.0
+Crystal Palace,2024-02-24,Home,Burnley,W,3,0,56.0
+Crystal Palace,2024-03-02,Away,Tottenham,L,1,3,22.0
+Crystal Palace,2024-03-09,Home,Luton Town,D,1,1,49.0
+Crystal Palace,2024-03-30,Away,Nott'ham Forest,D,1,1,41.0
+Crystal Palace,2024-04-02,Away,Bournemouth,L,0,1,50.0
+Crystal Palace,2024-04-06,Home,Manchester City,L,2,4,25.0
+Crystal Palace,2024-04-14,Away,Liverpool,W,1,0,31.0
+Crystal Palace,2024-04-21,Home,West Ham,W,5,2,60.0
+Crystal Palace,2024-04-24,Home,Newcastle Utd,W,2,0,47.0
+Crystal Palace,2024-04-27,Away,Fulham,D,1,1,47.0
+Crystal Palace,2024-05-06,Home,Manchester Utd,W,4,0,43.0
+Crystal Palace,2024-05-11,Away,Wolves,W,3,1,38.0
+Crystal Palace,2024-05-19,Home,Aston Villa,W,5,0,54.0
+Everton,2023-08-12,Home,Fulham,L,0,1,42.0
+Everton,2023-08-20,Away,Aston Villa,L,0,4,40.0
+Everton,2023-08-26,Home,Wolves,L,0,1,47.0
+Everton,2023-09-02,Away,Sheffield Utd,D,2,2,54.0
+Everton,2023-09-17,Home,Arsenal,L,0,1,26.0
+Everton,2023-09-23,Away,Brentford,W,3,1,43.0
+Everton,2023-09-30,Home,Luton Town,L,1,2,67.0
+Everton,2023-10-07,Home,Bournemouth,W,3,0,48.0
+Everton,2023-10-21,Away,Liverpool,L,0,2,23.0
+Everton,2023-10-29,Away,West Ham,W,1,0,36.0
+Everton,2023-11-04,Home,Brighton,D,1,1,21.0
+Everton,2023-11-11,Away,Crystal Palace,W,3,2,33.0
+Everton,2023-11-26,Home,Manchester Utd,L,0,3,51.0
+Everton,2023-12-02,Away,Nott'ham Forest,W,1,0,39.0
+Everton,2023-12-07,Home,Newcastle Utd,W,3,0,38.0
+Everton,2023-12-10,Home,Chelsea,W,2,0,29.0
+Everton,2023-12-16,Away,Burnley,W,2,0,39.0
+Everton,2023-12-23,Away,Tottenham,L,1,2,39.0
+Everton,2023-12-27,Home,Manchester City,L,1,3,28.0
+Everton,2023-12-30,Away,Wolves,L,0,3,47.0
+Everton,2024-01-14,Home,Aston Villa,D,0,0,32.0
+Everton,2024-01-30,Away,Fulham,D,0,0,30.0
+Everton,2024-02-03,Home,Tottenham,D,2,2,43.0
+Everton,2024-02-10,Away,Manchester City,L,0,2,28.0
+Everton,2024-02-19,Home,Crystal Palace,D,1,1,61.0
+Everton,2024-02-24,Away,Brighton,D,1,1,36.0
+Everton,2024-03-02,Home,West Ham,L,1,3,55.0
+Everton,2024-03-09,Away,Manchester Utd,L,0,2,49.0
+Everton,2024-03-30,Away,Bournemouth,L,1,2,52.0
+Everton,2024-04-02,Away,Newcastle Utd,D,1,1,43.0
+Everton,2024-04-06,Home,Burnley,W,1,0,38.0
+Everton,2024-04-15,Away,Chelsea,L,0,6,42.0
+Everton,2024-04-21,Home,Nott'ham Forest,W,2,0,41.0
+Everton,2024-04-24,Home,Liverpool,W,2,0,25.0
+Everton,2024-04-27,Home,Brentford,W,1,0,48.0
+Everton,2024-05-03,Away,Luton Town,D,1,1,49.0
+Everton,2024-05-11,Home,Sheffield Utd,W,1,0,58.0
+Everton,2024-05-19,Away,Arsenal,L,1,2,32.0
+Fulham,2023-08-12,Away,Everton,W,1,0,58.0
+Fulham,2023-08-19,Home,Brentford,L,0,3,55.0
+Fulham,2023-08-26,Away,Arsenal,D,2,2,29.0
+Fulham,2023-09-02,Away,Manchester City,L,1,5,32.0
+Fulham,2023-09-16,Home,Luton Town,W,1,0,77.0
+Fulham,2023-09-23,Away,Crystal Palace,D,0,0,49.0
+Fulham,2023-10-02,Home,Chelsea,L,0,2,56.0
+Fulham,2023-10-07,Home,Sheffield Utd,W,3,1,60.0
+Fulham,2023-10-23,Away,Tottenham,L,0,2,45.0
+Fulham,2023-10-29,Away,Brighton,D,1,1,29.0
+Fulham,2023-11-04,Home,Manchester Utd,L,0,1,45.0
+Fulham,2023-11-12,Away,Aston Villa,L,1,3,49.0
+Fulham,2023-11-27,Home,Wolves,W,3,2,60.0
+Fulham,2023-12-03,Away,Liverpool,L,3,4,39.0
+Fulham,2023-12-06,Home,Nott'ham Forest,W,5,0,63.0
+Fulham,2023-12-10,Home,West Ham,W,5,0,63.0
+Fulham,2023-12-16,Away,Newcastle Utd,L,0,3,30.0
+Fulham,2023-12-23,Home,Burnley,L,0,2,66.0
+Fulham,2023-12-26,Away,Bournemouth,L,0,3,57.0
+Fulham,2023-12-31,Home,Arsenal,W,2,1,40.0
+Fulham,2024-01-13,Away,Chelsea,L,0,1,45.0
+Fulham,2024-01-30,Home,Everton,D,0,0,70.0
+Fulham,2024-02-03,Away,Burnley,D,2,2,56.0
+Fulham,2024-02-10,Home,Bournemouth,W,3,1,49.0
+Fulham,2024-02-17,Home,Aston Villa,L,1,2,52.0
+Fulham,2024-02-24,Away,Manchester Utd,W,2,1,43.0
+Fulham,2024-03-02,Home,Brighton,W,3,0,30.0
+Fulham,2024-03-09,Away,Wolves,L,1,2,52.0
+Fulham,2024-03-16,Home,Tottenham,W,3,0,43.0
+Fulham,2024-03-30,Away,Sheffield Utd,D,3,3,73.0
+Fulham,2024-04-02,Away,Nott'ham Forest,L,1,3,66.0
+Fulham,2024-04-06,Home,Newcastle Utd,L,0,1,66.0
+Fulham,2024-04-14,Away,West Ham,W,2,0,42.0
+Fulham,2024-04-21,Home,Liverpool,L,1,3,40.0
+Fulham,2024-04-27,Home,Crystal Palace,D,1,1,53.0
+Fulham,2024-05-04,Away,Brentford,D,0,0,46.0
+Fulham,2024-05-11,Home,Manchester City,L,0,4,36.0
+Fulham,2024-05-19,Away,Luton Town,W,4,2,59.0
+liverpool,2023-08-13,Away,Chelsea,D,1,1,35.0
+liverpool,2023-08-19,Home,Bournemouth,W,3,1,64.0
+liverpool,2023-08-27,Away,Newcastle Utd,W,2,1,41.0
+liverpool,2023-09-03,Home,Aston Villa,W,3,0,63.0
+liverpool,2023-09-16,Away,Wolves,W,3,1,65.0
+liverpool,2023-09-24,Home,West Ham,W,3,1,63.0
+liverpool,2023-09-30,Away,Tottenham,L,1,2,36.0
+liverpool,2023-10-08,Away,Brighton,D,2,2,54.0
+liverpool,2023-10-21,Home,Everton,W,2,0,77.0
+liverpool,2023-10-29,Home,Nott'ham Forest,W,3,0,72.0
+liverpool,2023-11-05,Away,Luton Town,D,1,1,73.0
+liverpool,2023-11-12,Home,Brentford,W,3,0,58.0
+liverpool,2023-11-25,Away,Manchester City,D,1,1,41.0
+liverpool,2023-12-03,Home,Fulham,W,4,3,61.0
+liverpool,2023-12-06,Away,Sheffield Utd,W,2,0,75.0
+liverpool,2023-12-09,Away,Crystal Palace,W,2,1,76.0
+liverpool,2023-12-17,Home,Manchester Utd,D,0,0,68.0
+liverpool,2023-12-23,Home,Arsenal,D,1,1,52.0
+liverpool,2023-12-26,Away,Burnley,W,2,0,68.0
+liverpool,2024-01-01,Home,Newcastle Utd,W,4,2,61.0
+liverpool,2024-01-21,Away,Bournemouth,W,4,0,60.0
+liverpool,2024-01-31,Home,Chelsea,W,4,1,50.0
+liverpool,2024-02-04,Away,Arsenal,L,1,3,57.0
+liverpool,2024-02-10,Home,Burnley,W,3,1,70.0
+liverpool,2024-02-17,Away,Brentford,W,4,1,62.0
+liverpool,2024-02-21,Home,Luton Town,W,4,1,60.0
+liverpool,2024-03-02,Away,Nott'ham Forest,W,1,0,69.0
+liverpool,2024-03-10,Home,Manchester City,D,1,1,53.0
+liverpool,2024-03-31,Home,Brighton,W,2,1,55.0
+liverpool,2024-04-04,Home,Sheffield Utd,W,3,1,82.0
+liverpool,2024-04-07,Away,Manchester Utd,D,2,2,62.0
+liverpool,2024-04-14,Home,Crystal Palace,L,0,1,69.0
+liverpool,2024-04-21,Away,Fulham,W,3,1,60.0
+liverpool,2024-04-24,Away,Everton,L,0,2,75.0
+liverpool,2024-04-27,Away,West Ham,D,2,2,71.0
+liverpool,2024-05-05,Home,Tottenham,W,4,2,44.0
+liverpool,2024-05-13,Away,Aston Villa,D,3,3,59.0
+liverpool,2024-05-19,Home,Wolves,W,2,0,67.0
+Luton Town,2023-08-12,Away,Brighton,L,1,4,30.0
+Luton Town,2023-08-25,Away,Chelsea,L,0,3,33.0
+Luton Town,2023-09-01,Home,West Ham,L,1,2,39.0
+Luton Town,2023-09-16,Away,Fulham,L,0,1,23.0
+Luton Town,2023-09-23,Home,Wolves,D,1,1,57.0
+Luton Town,2023-09-30,Away,Everton,W,2,1,33.0
+Luton Town,2023-10-03,Home,Burnley,L,1,2,49.0
+Luton Town,2023-10-07,Home,Tottenham,L,0,1,34.0
+Luton Town,2023-10-21,Away,Nott'ham Forest,D,2,2,43.0
+Luton Town,2023-10-29,Away,Aston Villa,L,1,3,30.0
+Luton Town,2023-11-05,Home,Liverpool,D,1,1,27.0
+Luton Town,2023-11-11,Away,Manchester Utd,L,0,1,36.0
+Luton Town,2023-11-25,Home,Crystal Palace,W,2,1,39.0
+Luton Town,2023-12-02,Away,Brentford,L,1,3,32.0
+Luton Town,2023-12-05,Home,Arsenal,L,3,4,34.0
+Luton Town,2023-12-10,Home,Manchester City,L,1,2,35.0
+Luton Town,2023-12-23,Home,Newcastle Utd,W,1,0,35.0
+Luton Town,2023-12-26,Away,Sheffield Utd,W,3,2,49.0
+Luton Town,2023-12-30,Home,Chelsea,L,2,3,52.0
+Luton Town,2024-01-12,Away,Burnley,D,1,1,61.0
+Luton Town,2024-01-30,Home,Brighton,W,4,0,41.0
+Luton Town,2024-02-03,Away,Newcastle Utd,D,4,4,45.0
+Luton Town,2024-02-10,Home,Sheffield Utd,L,1,3,74.0
+Luton Town,2024-02-18,Home,Manchester Utd,L,1,2,58.0
+Luton Town,2024-02-21,Away,Liverpool,L,1,4,40.0
+Luton Town,2024-03-02,Home,Aston Villa,L,2,3,46.0
+Luton Town,2024-03-09,Away,Crystal Palace,D,1,1,51.0
+Luton Town,2024-03-13,Away,Bournemouth,L,3,4,41.0
+Luton Town,2024-03-16,Home,Nott'ham Forest,D,1,1,60.0
+Luton Town,2024-03-30,Away,Tottenham,L,1,2,30.0
+Luton Town,2024-04-03,Away,Arsenal,L,0,2,42.0
+Luton Town,2024-04-06,Home,Bournemouth,W,2,1,55.0
+Luton Town,2024-04-13,Away,Manchester City,L,1,5,27.0
+Luton Town,2024-04-20,Home,Brentford,L,1,5,53.0
+Luton Town,2024-04-27,Away,Wolves,L,1,2,42.0
+Luton Town,2024-05-03,Home,Everton,D,1,1,51.0
+Luton Town,2024-05-11,Away,West Ham,L,1,3,42.0
+Luton Town,2024-05-19,Home,Fulham,L,2,4,41.0
+Manchester United,2023-08-14,Home,Wolves,W,1,0,51.0
+Manchester United,2023-08-19,Away,Tottenham,L,0,2,45.0
+Manchester United,2023-08-26,Home,Nott'ham Forest,W,3,2,66.0
+Manchester United,2023-09-03,Away,Arsenal,L,1,3,45.0
+Manchester United,2023-09-16,Home,Brighton,L,1,3,44.0
+Manchester United,2023-09-23,Away,Burnley,W,1,0,39.0
+Manchester United,2023-09-30,Home,Crystal Palace,L,0,1,77.0
+Manchester United,2023-10-07,Home,Brentford,W,2,1,64.0
+Manchester United,2023-10-21,Away,Sheffield Utd,W,2,1,62.0
+Manchester United,2023-10-29,Home,Manchester City,L,0,3,40.0
+Manchester United,2023-11-04,Away,Fulham,W,1,0,55.0
+Manchester United,2023-11-11,Home,Luton Town,W,1,0,64.0
+Manchester United,2023-11-26,Away,Everton,W,3,0,49.0
+Manchester United,2023-12-02,Away,Newcastle Utd,L,0,1,42.0
+Manchester United,2023-12-06,Home,Chelsea,W,2,1,45.0
+Manchester United,2023-12-09,Home,Bournemouth,L,0,3,68.0
+Manchester United,2023-12-17,Away,Liverpool,D,0,0,32.0
+Manchester United,2023-12-23,Away,West Ham,L,0,2,65.0
+Manchester United,2023-12-26,Home,Aston Villa,W,3,2,46.0
+Manchester United,2023-12-30,Away,Nott'ham Forest,L,1,2,56.0
+Manchester United,2024-01-14,Home,Tottenham,D,2,2,37.0
+Manchester United,2024-02-01,Away,Wolves,W,4,3,47.0
+Manchester United,2024-02-04,Home,West Ham,W,3,0,51.0
+Manchester United,2024-02-11,Away,Aston Villa,W,2,1,44.0
+Manchester United,2024-02-18,Away,Luton Town,W,2,1,42.0
+Manchester United,2024-02-24,Home,Fulham,L,1,2,57.0
+Manchester United,2024-03-03,Away,Manchester City,L,1,3,27.0
+Manchester United,2024-03-09,Home,Everton,W,2,0,51.0
+Manchester United,2024-03-30,Away,Brentford,D,1,1,53.0
+Manchester United,2024-04-04,Away,Chelsea,L,3,4,43.0
+Manchester United,2024-04-07,Home,Liverpool,D,2,2,38.0
+Manchester United,2024-04-13,Away,Bournemouth,D,2,2,57.0
+Manchester United,2024-04-24,Home,Sheffield Utd,W,4,2,71.0
+Manchester United,2024-04-27,Home,Burnley,D,1,1,48.0
+Manchester United,2024-05-06,Away,Crystal Palace,L,0,4,57.0
+Manchester United,2024-05-12,Home,Arsenal,L,0,1,54.0
+Manchester United,2024-05-15,Home,Newcastle Utd,W,3,2,45.0
+Manchester United,2024-05-19,Away,Brighton,W,2,0,45.0
+mancity,2023-08-11,Away,Burnley,W,3,0,65.0
+mancity,2023-08-19,Home,Newcastle Utd,W,1,0,59.0
+mancity,2023-08-27,Away,Sheffield Utd,W,2,1,79.0
+mancity,2023-09-02,Home,Fulham,W,5,1,68.0
+mancity,2023-09-16,Away,West Ham,W,3,1,68.0
+mancity,2023-09-23,Home,Nott'ham Forest,W,2,0,57.0
+mancity,2023-09-30,Away,Wolves,L,1,2,68.0
+mancity,2023-10-08,Away,Arsenal,L,0,1,51.0
+mancity,2023-10-21,Home,Brighton,W,2,1,55.0
+mancity,2023-10-29,Away,Manchester Utd,W,3,0,60.0
+mancity,2023-11-04,Home,Bournemouth,W,6,1,65.0
+mancity,2023-11-12,Away,Chelsea,D,4,4,55.0
+mancity,2023-11-25,Home,Liverpool,D,1,1,59.0
+mancity,2023-12-03,Home,Tottenham,D,3,3,55.0
+mancity,2023-12-06,Away,Aston Villa,L,0,1,54.0
+mancity,2023-12-10,Away,Luton Town,W,2,1,65.0
+mancity,2023-12-16,Home,Crystal Palace,D,2,2,74.0
+mancity,2023-12-27,Away,Everton,W,3,1,72.0
+mancity,2023-12-30,Home,Sheffield Utd,W,2,0,80.0
+mancity,2024-01-13,Away,Newcastle Utd,W,3,2,72.0
+mancity,2024-01-31,Home,Burnley,W,3,1,74.0
+mancity,2024-02-05,Away,Brentford,W,3,1,72.0
+mancity,2024-02-10,Home,Everton,W,2,0,72.0
+mancity,2024-02-17,Home,Chelsea,D,1,1,70.0
+mancity,2024-02-20,Home,Brentford,W,1,0,70.0
+mancity,2024-02-24,Away,Bournemouth,W,1,0,62.0
+mancity,2024-03-03,Home,Manchester Utd,W,3,1,73.0
+mancity,2024-03-10,Away,Liverpool,D,1,1,47.0
+mancity,2024-03-31,Home,Arsenal,D,0,0,72.0
+mancity,2024-04-03,Home,Aston Villa,W,4,1,67.0
+mancity,2024-04-06,Away,Crystal Palace,W,4,2,75.0
+mancity,2024-04-13,Home,Luton Town,W,5,1,73.0
+mancity,2024-04-25,Away,Brighton,W,4,0,64.0
+mancity,2024-04-28,Away,Nott'ham Forest,W,2,0,66.0
+mancity,2024-05-04,Home,Wolves,W,5,1,58.0
+mancity,2024-05-11,Away,Fulham,W,4,0,64.0
+mancity,2024-05-14,Away,Tottenham,W,2,0,47.0
+mancity,2024-05-19,Home,West Ham,W,3,1,71.0
+Newcastle United,2023-08-12,Home,Aston Villa,W,5,1,52.0
+Newcastle United,2023-08-19,Away,Manchester City,L,0,1,41.0
+Newcastle United,2023-08-27,Home,Liverpool,L,1,2,59.0
+Newcastle United,2023-09-02,Away,Brighton,L,1,3,44.0
+Newcastle United,2023-09-16,Home,Brentford,W,1,0,56.0
+Newcastle United,2023-09-24,Away,Sheffield Utd,W,8,0,58.0
+Newcastle United,2023-09-30,Home,Burnley,W,2,0,53.0
+Newcastle United,2023-10-08,Away,West Ham,D,2,2,64.0
+Newcastle United,2023-10-21,Home,Crystal Palace,W,4,0,59.0
+Newcastle United,2023-10-28,Away,Wolves,D,2,2,57.0
+Newcastle United,2023-11-04,Home,Arsenal,W,1,0,42.0
+Newcastle United,2023-11-11,Away,Bournemouth,L,0,2,52.0
+Newcastle United,2023-11-25,Home,Chelsea,W,4,1,54.0
+Newcastle United,2023-12-02,Home,Manchester Utd,W,1,0,58.0
+Newcastle United,2023-12-07,Away,Everton,L,0,3,62.0
+Newcastle United,2023-12-10,Away,Tottenham,L,1,4,44.0
+Newcastle United,2023-12-16,Home,Fulham,W,3,0,70.0
+Newcastle United,2023-12-23,Away,Luton Town,L,0,1,65.0
+Newcastle United,2023-12-26,Home,Nott'ham Forest,L,1,3,62.0
+Newcastle United,2024-01-01,Away,Liverpool,L,2,4,39.0
+Newcastle United,2024-01-13,Home,Manchester City,L,2,3,28.0
+Newcastle United,2024-01-30,Away,Aston Villa,W,3,1,39.0
+Newcastle United,2024-02-03,Home,Luton Town,D,4,4,55.0
+Newcastle United,2024-02-10,Away,Nott'ham Forest,W,3,2,61.0
+Newcastle United,2024-02-17,Home,Bournemouth,D,2,2,62.0
+Newcastle United,2024-02-24,Away,Arsenal,L,1,4,45.0
+Newcastle United,2024-03-02,Home,Wolves,W,3,0,44.0
+Newcastle United,2024-03-11,Away,Chelsea,L,2,3,56.0
+Newcastle United,2024-03-30,Home,West Ham,W,4,3,60.0
+Newcastle United,2024-04-02,Home,Everton,D,1,1,57.0
+Newcastle United,2024-04-06,Away,Fulham,W,1,0,34.0
+Newcastle United,2024-04-13,Home,Tottenham,W,4,0,28.0
+Newcastle United,2024-04-24,Away,Crystal Palace,L,0,2,53.0
+Newcastle United,2024-04-27,Home,Sheffield Utd,W,5,1,60.0
+Newcastle United,2024-05-04,Away,Burnley,W,4,1,53.0
+Newcastle United,2024-05-11,Home,Brighton,D,1,1,57.0
+Newcastle United,2024-05-15,Away,Manchester Utd,L,2,3,55.0
+Newcastle United,2024-05-19,Away,Brentford,W,4,2,46.0
+Nottingham Forest,2023-08-12,Away,Arsenal,L,1,2,22.0
+Nottingham Forest,2023-08-18,Home,Sheffield Utd,W,2,1,50.0
+Nottingham Forest,2023-08-26,Away,Manchester Utd,L,2,3,34.0
+Nottingham Forest,2023-09-02,Away,Chelsea,W,1,0,25.0
+Nottingham Forest,2023-09-18,Home,Burnley,D,1,1,46.0
+Nottingham Forest,2023-09-23,Away,Manchester City,L,0,2,43.0
+Nottingham Forest,2023-10-01,Home,Brentford,D,1,1,41.0
+Nottingham Forest,2023-10-07,Away,Crystal Palace,D,0,0,48.0
+Nottingham Forest,2023-10-21,Home,Luton Town,D,2,2,57.0
+Nottingham Forest,2023-10-29,Away,Liverpool,L,0,3,28.0
+Nottingham Forest,2023-11-05,Home,Aston Villa,W,2,0,27.0
+Nottingham Forest,2023-11-12,Away,West Ham,L,2,3,46.0
+Nottingham Forest,2023-11-25,Home,Brighton,L,2,3,47.0
+Nottingham Forest,2023-12-02,Home,Everton,L,0,1,61.0
+Nottingham Forest,2023-12-06,Away,Fulham,L,0,5,37.0
+Nottingham Forest,2023-12-09,Away,Wolves,D,1,1,32.0
+Nottingham Forest,2023-12-15,Home,Tottenham,L,0,2,34.0
+Nottingham Forest,2023-12-23,Home,Bournemouth,L,2,3,34.0
+Nottingham Forest,2023-12-26,Away,Newcastle Utd,W,3,1,38.0
+Nottingham Forest,2023-12-30,Home,Manchester Utd,W,2,1,44.0
+Nottingham Forest,2024-01-20,Away,Brentford,L,2,3,52.0
+Nottingham Forest,2024-01-30,Home,Arsenal,L,1,2,27.0
+Nottingham Forest,2024-02-04,Away,Bournemouth,D,1,1,55.0
+Nottingham Forest,2024-02-10,Home,Newcastle Utd,L,2,3,39.0
+Nottingham Forest,2024-02-17,Home,West Ham,W,2,0,49.0
+Nottingham Forest,2024-02-24,Away,Aston Villa,L,2,4,42.0
+Nottingham Forest,2024-03-02,Home,Liverpool,L,0,1,31.0
+Nottingham Forest,2024-03-10,Away,Brighton,L,0,1,37.0
+Nottingham Forest,2024-03-16,Away,Luton Town,D,1,1,40.0
+Nottingham Forest,2024-03-30,Home,Crystal Palace,D,1,1,59.0
+Nottingham Forest,2024-04-02,Home,Fulham,W,3,1,34.0
+Nottingham Forest,2024-04-07,Away,Tottenham,L,1,3,37.0
+Nottingham Forest,2024-04-13,Home,Wolves,D,2,2,46.0
+Nottingham Forest,2024-04-21,Away,Everton,L,0,2,59.0
+Nottingham Forest,2024-04-28,Home,Manchester City,L,0,2,34.0
+Nottingham Forest,2024-05-04,Away,Sheffield Utd,W,3,1,46.0
+Nottingham Forest,2024-05-11,Home,Chelsea,L,2,3,33.0
+Nottingham Forest,2024-05-19,Away,Burnley,W,2,1,28.0
+Sheffield United ,2023-08-12,Home,Crystal Palace,L,0,1,32.0
+Sheffield United ,2023-08-18,Away,Nott'ham Forest,L,1,2,50.0
+Sheffield United ,2023-08-27,Home,Manchester City,L,1,2,21.0
+Sheffield United ,2023-09-02,Home,Everton,D,2,2,46.0
+Sheffield United ,2023-09-16,Away,Tottenham,L,1,2,30.0
+Sheffield United ,2023-09-24,Home,Newcastle Utd,L,0,8,42.0
+Sheffield United ,2023-09-30,Away,West Ham,L,0,2,48.0
+Sheffield United ,2023-10-07,Away,Fulham,L,1,3,40.0
+Sheffield United ,2023-10-21,Home,Manchester Utd,L,1,2,38.0
+Sheffield United ,2023-10-28,Away,Arsenal,L,0,5,33.0
+Sheffield United ,2023-11-04,Home,Wolves,W,2,1,39.0
+Sheffield United ,2023-11-12,Away,Brighton,D,1,1,39.0
+Sheffield United ,2023-11-25,Home,Bournemouth,L,1,3,46.0
+Sheffield United ,2023-12-02,Away,Burnley,L,0,5,37.0
+Sheffield United ,2023-12-06,Home,Liverpool,L,0,2,25.0
+Sheffield United ,2023-12-09,Home,Brentford,W,1,0,41.0
+Sheffield United ,2023-12-16,Away,Chelsea,L,0,2,22.0
+Sheffield United ,2023-12-22,Away,Aston Villa,D,1,1,23.0
+Sheffield United ,2023-12-26,Home,Luton Town,L,2,3,51.0
+Sheffield United ,2023-12-30,Away,Manchester City,L,0,2,20.0
+Sheffield United ,2024-01-21,Home,West Ham,D,2,2,57.0
+Sheffield United ,2024-01-30,Away,Crystal Palace,L,2,3,47.0
+Sheffield United ,2024-02-03,Home,Aston Villa,L,0,5,37.0
+Sheffield United ,2024-02-10,Away,Luton Town,W,3,1,26.0
+Sheffield United ,2024-02-18,Home,Brighton,L,0,5,21.0
+Sheffield United ,2024-02-25,Away,Wolves,L,0,1,37.0
+Sheffield United ,2024-03-04,Home,Arsenal,L,0,6,20.0
+Sheffield United ,2024-03-09,Away,Bournemouth,D,2,2,31.0
+Sheffield United ,2024-03-30,Home,Fulham,D,3,3,27.0
+Sheffield United ,2024-04-04,Away,Liverpool,L,1,3,18.0
+Sheffield United ,2024-04-07,Home,Chelsea,D,2,2,32.0
+Sheffield United ,2024-04-13,Away,Brentford,L,0,2,47.0
+Sheffield United ,2024-04-20,Home,Burnley,L,1,4,49.0
+Sheffield United ,2024-04-24,Away,Manchester Utd,L,2,4,29.0
+Sheffield United ,2024-04-27,Away,Newcastle Utd,L,1,5,40.0
+Sheffield United ,2024-05-04,Home,Nott'ham Forest,L,1,3,54.0
+Sheffield United ,2024-05-11,Away,Everton,L,0,1,42.0
+Sheffield United ,2024-05-19,Home,Tottenham,L,0,3,25.0
+Tottenham Hotspur,2023-08-13,Away,Brentford,D,2,2,69.0
+Tottenham Hotspur,2023-08-19,Home,Manchester Utd,W,2,0,55.0
+Tottenham Hotspur,2023-08-26,Away,Bournemouth,W,2,0,56.0
+Tottenham Hotspur,2023-09-02,Away,Burnley,W,5,2,53.0
+Tottenham Hotspur,2023-09-16,Home,Sheffield Utd,W,2,1,70.0
+Tottenham Hotspur,2023-09-24,Away,Arsenal,D,2,2,53.0
+Tottenham Hotspur,2023-09-30,Home,Liverpool,W,2,1,64.0
+Tottenham Hotspur,2023-10-07,Away,Luton Town,W,1,0,66.0
+Tottenham Hotspur,2023-10-23,Home,Fulham,W,2,0,55.0
+Tottenham Hotspur,2023-10-27,Away,Crystal Palace,W,2,1,75.0
+Tottenham Hotspur,2023-11-06,Home,Chelsea,L,1,4,40.0
+Tottenham Hotspur,2023-11-11,Away,Wolves,L,1,2,58.0
+Tottenham Hotspur,2023-11-26,Home,Aston Villa,L,1,2,62.0
+Tottenham Hotspur,2023-12-03,Away,Manchester City,D,3,3,45.0
+Tottenham Hotspur,2023-12-07,Home,West Ham,L,1,2,74.0
+Tottenham Hotspur,2023-12-10,Home,Newcastle Utd,W,4,1,56.0
+Tottenham Hotspur,2023-12-15,Away,Nott'ham Forest,W,2,0,66.0
+Tottenham Hotspur,2023-12-23,Home,Everton,W,2,1,61.0
+Tottenham Hotspur,2023-12-28,Away,Brighton,L,2,4,55.0
+Tottenham Hotspur,2023-12-31,Home,Bournemouth,W,3,1,50.0
+Tottenham Hotspur,2024-01-14,Away,Manchester Utd,D,2,2,63.0
+Tottenham Hotspur,2024-01-31,Home,Brentford,W,3,2,67.0
+Tottenham Hotspur,2024-02-03,Away,Everton,D,2,2,57.0
+Tottenham Hotspur,2024-02-10,Home,Brighton,W,2,1,52.0
+Tottenham Hotspur,2024-02-17,Home,Wolves,L,1,2,71.0
+Tottenham Hotspur,2024-03-02,Home,Crystal Palace,W,3,1,78.0
+Tottenham Hotspur,2024-03-10,Away,Aston Villa,W,4,0,68.0
+Tottenham Hotspur,2024-03-16,Away,Fulham,L,0,3,57.0
+Tottenham Hotspur,2024-03-30,Home,Luton Town,W,2,1,70.0
+Tottenham Hotspur,2024-04-02,Away,West Ham,D,1,1,67.0
+Tottenham Hotspur,2024-04-07,Home,Nott'ham Forest,W,3,1,63.0
+Tottenham Hotspur,2024-04-13,Away,Newcastle Utd,L,0,4,72.0
+Tottenham Hotspur,2024-04-28,Home,Arsenal,L,2,3,62.0
+Tottenham Hotspur,2024-05-02,Away,Chelsea,L,0,2,63.0
+Tottenham Hotspur,2024-05-05,Away,Liverpool,L,2,4,56.0
+Tottenham Hotspur,2024-05-11,Home,Burnley,W,2,1,63.0
+Tottenham Hotspur,2024-05-14,Home,Manchester City,L,0,2,53.0
+Tottenham Hotspur,2024-05-19,Away,Sheffield Utd,W,3,0,75.0
+West Ham United ,2023-08-12,Away,Bournemouth,D,1,1,38.0
+West Ham United ,2023-08-20,Home,Chelsea,W,3,1,25.0
+West Ham United ,2023-08-26,Away,Brighton,W,3,1,22.0
+West Ham United ,2023-09-01,Away,Luton Town,W,2,1,61.0
+West Ham United ,2023-09-16,Home,Manchester City,L,1,3,32.0
+West Ham United ,2023-09-24,Away,Liverpool,L,1,3,37.0
+West Ham United ,2023-09-30,Home,Sheffield Utd,W,2,0,52.0
+West Ham United ,2023-10-08,Home,Newcastle Utd,D,2,2,36.0
+West Ham United ,2023-10-22,Away,Aston Villa,L,1,4,42.0
+West Ham United ,2023-10-29,Home,Everton,L,0,1,64.0
+West Ham United ,2023-11-04,Away,Brentford,L,2,3,42.0
+West Ham United ,2023-11-12,Home,Nott'ham Forest,W,3,2,54.0
+West Ham United ,2023-11-25,Away,Burnley,W,2,1,50.0
+West Ham United ,2023-12-03,Home,Crystal Palace,D,1,1,55.0
+West Ham United ,2023-12-07,Away,Tottenham,W,2,1,26.0
+West Ham United ,2023-12-10,Away,Fulham,L,0,5,37.0
+West Ham United ,2023-12-17,Home,Wolves,W,3,0,45.0
+West Ham United ,2023-12-23,Home,Manchester Utd,W,2,0,35.0
+West Ham United ,2023-12-28,Away,Arsenal,W,2,0,27.0
+West Ham United ,2024-01-02,Home,Brighton,D,0,0,32.0
+West Ham United ,2024-01-21,Away,Sheffield Utd,D,2,2,43.0
+West Ham United ,2024-02-01,Home,Bournemouth,D,1,1,48.0
+West Ham United ,2024-02-04,Away,Manchester Utd,L,0,3,49.0
+West Ham United ,2024-02-11,Home,Arsenal,L,0,6,30.0
+West Ham United ,2024-02-17,Away,Nott'ham Forest,L,0,2,51.0
+West Ham United ,2024-02-26,Home,Brentford,W,4,2,41.0
+West Ham United ,2024-03-02,Away,Everton,W,3,1,45.0
+West Ham United ,2024-03-10,Home,Burnley,D,2,2,52.0
+West Ham United ,2024-03-17,Home,Aston Villa,D,1,1,31.0
+West Ham United ,2024-03-30,Away,Newcastle Utd,L,3,4,40.0
+West Ham United ,2024-04-02,Home,Tottenham,D,1,1,33.0
+West Ham United ,2024-04-06,Away,Wolves,W,2,1,42.0
+West Ham United ,2024-04-14,Home,Fulham,L,0,2,58.0
+West Ham United ,2024-04-21,Away,Crystal Palace,L,2,5,40.0
+West Ham United ,2024-04-27,Home,Liverpool,D,2,2,29.0
+West Ham United ,2024-05-05,Away,Chelsea,L,0,5,31.0
+West Ham United ,2024-05-11,Home,Luton Town,W,3,1,58.0
+West Ham United ,2024-05-19,Away,Manchester City,L,1,3,29.0
+Wolverhampton Wanderers,2023-08-14,Away,Manchester Utd,L,0,1,49.0
+Wolverhampton Wanderers,2023-08-19,Home,Brighton,L,1,4,47.0
+Wolverhampton Wanderers,2023-08-26,Away,Everton,W,1,0,53.0
+Wolverhampton Wanderers,2023-09-03,Away,Crystal Palace,L,2,3,57.0
+Wolverhampton Wanderers,2023-09-16,Home,Liverpool,L,1,3,35.0
+Wolverhampton Wanderers,2023-09-23,Away,Luton Town,D,1,1,43.0
+Wolverhampton Wanderers,2023-09-30,Home,Manchester City,W,2,1,32.0
+Wolverhampton Wanderers,2023-10-08,Home,Aston Villa,D,1,1,47.0
+Wolverhampton Wanderers,2023-10-21,Away,Bournemouth,W,2,1,65.0
+Wolverhampton Wanderers,2023-10-28,Home,Newcastle Utd,D,2,2,43.0
+Wolverhampton Wanderers,2023-11-04,Away,Sheffield Utd,L,1,2,61.0
+Wolverhampton Wanderers,2023-11-11,Home,Tottenham,W,2,1,42.0
+Wolverhampton Wanderers,2023-11-27,Away,Fulham,L,2,3,40.0
+Wolverhampton Wanderers,2023-12-02,Away,Arsenal,L,1,2,43.0
+Wolverhampton Wanderers,2023-12-05,Home,Burnley,W,1,0,51.0
+Wolverhampton Wanderers,2023-12-09,Home,Nott'ham Forest,D,1,1,68.0
+Wolverhampton Wanderers,2023-12-17,Away,West Ham,L,0,3,55.0
+Wolverhampton Wanderers,2023-12-24,Home,Chelsea,W,2,1,32.0
+Wolverhampton Wanderers,2023-12-27,Away,Brentford,W,4,1,40.0
+Wolverhampton Wanderers,2023-12-30,Home,Everton,W,3,0,53.0
+Wolverhampton Wanderers,2024-01-22,Away,Brighton,D,0,0,28.0
+Wolverhampton Wanderers,2024-02-01,Home,Manchester Utd,L,3,4,53.0
+Wolverhampton Wanderers,2024-02-04,Away,Chelsea,W,4,2,36.0
+Wolverhampton Wanderers,2024-02-10,Home,Brentford,L,0,2,71.0
+Wolverhampton Wanderers,2024-02-17,Away,Tottenham,W,2,1,29.0
+Wolverhampton Wanderers,2024-02-25,Home,Sheffield Utd,W,1,0,63.0
+Wolverhampton Wanderers,2024-03-02,Away,Newcastle Utd,L,0,3,56.0
+Wolverhampton Wanderers,2024-03-09,Home,Fulham,W,2,1,48.0
+Wolverhampton Wanderers,2024-03-30,Away,Aston Villa,L,0,2,52.0
+Wolverhampton Wanderers,2024-04-02,Away,Burnley,D,1,1,49.0
+Wolverhampton Wanderers,2024-04-06,Home,West Ham,L,1,2,58.0
+Wolverhampton Wanderers,2024-04-13,Away,Nott'ham Forest,D,2,2,54.0
+Wolverhampton Wanderers,2024-04-20,Home,Arsenal,L,0,2,46.0
+Wolverhampton Wanderers,2024-04-24,Home,Bournemouth,L,0,1,63.0
+Wolverhampton Wanderers,2024-04-27,Home,Luton Town,W,2,1,58.0
+Wolverhampton Wanderers,2024-05-04,Away,Manchester City,L,1,5,42.0
+Wolverhampton Wanderers,2024-05-11,Home,Crystal Palace,L,1,3,62.0
+Wolverhampton Wanderers,2024-05-19,Away,Liverpool,L,0,2,33.0

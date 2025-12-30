@@ -1,0 +1,761 @@
+Team,Date,Venue,Opponent,Result,GF,GA,Poss
+Alavés,2023-08-14,Away,Cádiz,L,0,1,55.0
+Alavés,2023-08-21,Home,Sevilla,W,4,3,34.0
+Alavés,2023-08-28,Away,Getafe,L,0,1,53.0
+Alavés,2023-09-02,Home,Valencia,W,1,0,40.0
+Alavés,2023-09-15,Away,Rayo Vallecano,L,0,2,49.0
+Alavés,2023-09-22,Home,Athletic Club,L,0,2,44.0
+Alavés,2023-09-28,Away,Celta Vigo,D,1,1,54.0
+Alavés,2023-10-01,Home,Osasuna,L,0,2,46.0
+Alavés,2023-10-08,Home,Betis,D,1,1,40.0
+Alavés,2023-10-22,Away,Villarreal,D,1,1,32.0
+Alavés,2023-10-29,Away,Atlético Madrid,L,1,2,37.0
+Alavés,2023-11-05,Home,Almería,W,1,0,56.0
+Alavés,2023-11-12,Away,Barcelona,L,1,2,29.0
+Alavés,2023-11-24,Home,Granada,W,3,1,43.0
+Alavés,2023-12-03,Away,Mallorca,D,0,0,37.0
+Alavés,2023-12-09,Home,Las Palmas,L,0,1,41.0
+Alavés,2023-12-18,Away,Girona,L,0,3,34.0
+Alavés,2023-12-21,Home,Real Madrid,L,0,1,40.0
+Alavés,2024-01-02,Away,Real Sociedad,D,1,1,47.0
+Alavés,2024-01-12,Away,Sevilla,W,3,2,32.0
+Alavés,2024-01-19,Home,Cádiz,W,1,0,49.0
+Alavés,2024-01-26,Away,Almería,W,3,0,36.0
+Alavés,2024-02-03,Home,Barcelona,L,1,3,36.0
+Alavés,2024-02-10,Home,Villarreal,D,1,1,51.0
+Alavés,2024-02-18,Away,Betis,D,0,0,38.0
+Alavés,2024-02-24,Home,Mallorca,D,1,1,52.0
+Alavés,2024-03-04,Away,Osasuna,L,0,1,45.0
+Alavés,2024-03-10,Home,Rayo Vallecano,W,1,0,34.0
+Alavés,2024-03-16,Away,Athletic Club,L,0,2,41.0
+Alavés,2024-03-31,Home,Real Sociedad,L,0,1,41.0
+Alavés,2024-04-14,Away,Granada,L,0,2,62.0
+Alavés,2024-04-21,Home,Atlético Madrid,W,2,0,32.0
+Alavés,2024-04-27,Home,Celta Vigo,W,3,0,38.0
+Alavés,2024-05-05,Away,Valencia,W,1,0,42.0
+Alavés,2024-05-10,Home,Girona,D,2,2,36.0
+Alavés,2024-05-14,Away,Real Madrid,L,0,5,29.0
+Alavés,2024-05-18,Home,Getafe,W,1,0,48.0
+Alavés,2024-05-26,Away,Las Palmas,D,1,1,35.0
+Almería,2023-08-11,Home,Rayo Vallecano,L,0,2,60.0
+Almería,2023-08-19,Home,Real Madrid,L,1,3,43.0
+Almería,2023-08-26,Away,Cádiz,D,1,1,48.0
+Almería,2023-09-01,Home,Celta Vigo,L,2,3,63.0
+Almería,2023-09-17,Away,Villarreal,L,1,2,38.0
+Almería,2023-09-23,Home,Valencia,D,2,2,61.0
+Almería,2023-09-26,Away,Sevilla,L,1,5,54.0
+Almería,2023-10-01,Home,Granada,D,3,3,49.0
+Almería,2023-10-06,Away,Athletic Club,L,0,3,41.0
+Almería,2023-10-22,Away,Girona,L,2,5,34.0
+Almería,2023-10-28,Home,Las Palmas,L,1,2,41.0
+Almería,2023-11-05,Away,Alavés,L,0,1,44.0
+Almería,2023-11-11,Home,Real Sociedad,L,1,3,47.0
+Almería,2023-11-25,Away,Getafe,L,1,2,47.0
+Almería,2023-12-03,Home,Betis,D,0,0,62.0
+Almería,2023-12-10,Away,Atlético Madrid,L,1,2,43.0
+Almería,2023-12-17,Home,Mallorca,D,0,0,53.0
+Almería,2023-12-20,Away,Barcelona,L,2,3,35.0
+Almería,2024-01-04,Away,Osasuna,L,0,1,48.0
+Almería,2024-01-14,Home,Girona,D,0,0,46.0
+Almería,2024-01-21,Away,Real Madrid,L,2,3,27.0
+Almería,2024-01-26,Home,Alavés,L,0,3,64.0
+Almería,2024-02-03,Away,Valencia,L,1,2,52.0
+Almería,2024-02-12,Home,Athletic Club,D,0,0,39.0
+Almería,2024-02-18,Away,Granada,D,1,1,42.0
+Almería,2024-02-24,Home,Atlético Madrid,D,2,2,40.0
+Almería,2024-03-01,Away,Celta Vigo,L,0,1,34.0
+Almería,2024-03-11,Home,Sevilla,D,2,2,44.0
+Almería,2024-03-17,Away,Las Palmas,W,1,0,35.0
+Almería,2024-03-30,Home,Osasuna,L,0,3,51.0
+Almería,2024-04-14,Away,Real Sociedad,D,2,2,50.0
+Almería,2024-04-21,Home,Villarreal,L,1,2,57.0
+Almería,2024-04-27,Home,Getafe,L,1,3,56.0
+Almería,2024-05-05,Away,Rayo Vallecano,W,1,0,32.0
+Almería,2024-05-12,Away,Betis,L,2,3,52.0
+Almería,2024-05-16,Home,Barcelona,L,0,2,36.0
+Almería,2024-05-19,Away,Mallorca,D,2,2,48.0
+Almería,2024-05-25,Home,Cádiz,W,6,1,46.0
+Athletic Club,2023-08-12,Home,Real Madrid,L,0,2,46.0
+Athletic Club,2023-08-19,Away,Osasuna,W,2,0,37.0
+Athletic Club,2023-08-27,Home,Betis,W,4,2,48.0
+Athletic Club,2023-09-03,Away,Mallorca,D,0,0,67.0
+Athletic Club,2023-09-16,Home,Cádiz,W,3,0,65.0
+Athletic Club,2023-09-22,Away,Alavés,W,2,0,56.0
+Athletic Club,2023-09-27,Home,Getafe,D,2,2,49.0
+Athletic Club,2023-09-30,Away,Real Sociedad,L,0,3,49.0
+Athletic Club,2023-10-06,Home,Almería,W,3,0,59.0
+Athletic Club,2023-10-22,Away,Barcelona,L,0,1,38.0
+Athletic Club,2023-10-29,Home,Valencia,D,2,2,57.0
+Athletic Club,2023-11-05,Away,Villarreal,W,3,2,43.0
+Athletic Club,2023-11-10,Home,Celta Vigo,W,4,3,58.0
+Athletic Club,2023-11-27,Away,Girona,D,1,1,40.0
+Athletic Club,2023-12-02,Home,Rayo Vallecano,W,4,0,51.0
+Athletic Club,2023-12-11,Away,Granada,D,1,1,52.0
+Athletic Club,2023-12-16,Home,Atlético Madrid,W,2,0,38.0
+Athletic Club,2023-12-20,Home,Las Palmas,W,1,0,50.0
+Athletic Club,2024-01-04,Away,Sevilla,W,2,0,39.0
+Athletic Club,2024-01-13,Home,Real Sociedad,W,2,1,49.0
+Athletic Club,2024-01-20,Away,Valencia,L,0,1,60.0
+Athletic Club,2024-01-28,Away,Cádiz,D,0,0,57.0
+Athletic Club,2024-02-02,Home,Mallorca,W,4,0,62.0
+Athletic Club,2024-02-12,Away,Almería,D,0,0,61.0
+Athletic Club,2024-02-19,Home,Girona,W,3,2,31.0
+Athletic Club,2024-02-25,Away,Betis,L,1,3,43.0
+Athletic Club,2024-03-03,Home,Barcelona,D,0,0,40.0
+Athletic Club,2024-03-10,Away,Las Palmas,W,2,0,30.0
+Athletic Club,2024-03-16,Home,Alavés,W,2,0,59.0
+Athletic Club,2024-03-31,Away,Real Madrid,L,0,2,42.0
+Athletic Club,2024-04-14,Home,Villarreal,D,1,1,53.0
+Athletic Club,2024-04-19,Home,Granada,D,1,1,67.0
+Athletic Club,2024-04-27,Away,Atlético Madrid,L,1,3,58.0
+Athletic Club,2024-05-03,Away,Getafe,W,2,0,36.0
+Athletic Club,2024-05-11,Home,Osasuna,D,2,2,67.0
+Athletic Club,2024-05-15,Away,Celta Vigo,L,1,2,47.0
+Athletic Club,2024-05-19,Home,Sevilla,W,2,0,53.0
+Athletic Club,2024-05-25,Away,Rayo Vallecano,W,1,0,37.0
+Atlético Madrid,2023-08-14,Home,Granada,W,3,1,46.0
+Atlético Madrid,2023-08-20,Away,Betis,D,0,0,47.0
+Atlético Madrid,2023-08-28,Away,Rayo Vallecano,W,7,0,44.0
+Atlético Madrid,2023-09-16,Away,Valencia,L,0,3,63.0
+Atlético Madrid,2023-09-24,Home,Real Madrid,W,3,1,37.0
+Atlético Madrid,2023-09-28,Away,Osasuna,W,2,0,45.0
+Atlético Madrid,2023-10-01,Home,Cádiz,W,3,2,69.0
+Atlético Madrid,2023-10-08,Home,Real Sociedad,W,2,1,38.0
+Atlético Madrid,2023-10-21,Away,Celta Vigo,W,3,0,64.0
+Atlético Madrid,2023-10-29,Home,Alavés,W,2,1,63.0
+Atlético Madrid,2023-11-03,Away,Las Palmas,L,1,2,48.0
+Atlético Madrid,2023-11-12,Home,Villarreal,W,3,1,50.0
+Atlético Madrid,2023-11-25,Home,Mallorca,W,1,0,68.0
+Atlético Madrid,2023-12-03,Away,Barcelona,L,0,1,42.0
+Atlético Madrid,2023-12-10,Home,Almería,W,2,1,57.0
+Atlético Madrid,2023-12-16,Away,Athletic Club,L,0,2,62.0
+Atlético Madrid,2023-12-19,Home,Getafe,D,3,3,42.0
+Atlético Madrid,2023-12-23,Home,Sevilla,W,1,0,50.0
+Atlético Madrid,2024-01-03,Away,Girona,L,3,4,48.0
+Atlético Madrid,2024-01-22,Away,Granada,W,1,0,47.0
+Atlético Madrid,2024-01-28,Home,Valencia,W,2,0,54.0
+Atlético Madrid,2024-01-31,Home,Rayo Vallecano,W,2,1,54.0
+Atlético Madrid,2024-02-04,Away,Real Madrid,D,1,1,46.0
+Atlético Madrid,2024-02-11,Away,Sevilla,L,0,1,61.0
+Atlético Madrid,2024-02-17,Home,Las Palmas,W,5,0,36.0
+Atlético Madrid,2024-02-24,Away,Almería,D,2,2,60.0
+Atlético Madrid,2024-03-03,Home,Betis,W,2,1,42.0
+Atlético Madrid,2024-03-09,Away,Cádiz,L,0,2,60.0
+Atlético Madrid,2024-03-17,Home,Barcelona,L,0,3,41.0
+Atlético Madrid,2024-04-01,Away,Villarreal,W,2,1,48.0
+Atlético Madrid,2024-04-13,Home,Girona,W,3,1,41.0
+Atlético Madrid,2024-04-21,Away,Alavés,L,0,2,68.0
+Atlético Madrid,2024-04-27,Home,Athletic Club,W,3,1,42.0
+Atlético Madrid,2024-05-04,Away,Mallorca,W,1,0,41.0
+Atlético Madrid,2024-05-12,Home,Celta Vigo,W,1,0,56.0
+Atlético Madrid,2024-05-15,Away,Getafe,W,3,0,55.0
+Atlético Madrid,2024-05-19,Home,Osasuna,L,1,4,56.0
+Atlético Madrid,2024-05-25,Away,Real Sociedad,W,2,0,41.0
+Barcelona,2023-08-13,Away,Getafe,D,0,0,74.0
+Barcelona,2023-08-20,Home,Cádiz,W,2,0,74.0
+Barcelona,2023-08-27,Away,Villarreal,W,4,3,60.0
+Barcelona,2023-09-03,Away,Osasuna,W,2,1,69.0
+Barcelona,2023-09-16,Home,Betis,W,5,0,65.0
+Barcelona,2023-09-23,Home,Celta Vigo,W,3,2,74.0
+Barcelona,2023-09-26,Away,Mallorca,D,2,2,69.0
+Barcelona,2023-09-29,Home,Sevilla,W,1,0,58.0
+Barcelona,2023-10-08,Away,Granada,D,2,2,80.0
+Barcelona,2023-10-22,Home,Athletic Club,W,1,0,62.0
+Barcelona,2023-10-28,Home,Real Madrid,L,1,2,53.0
+Barcelona,2023-11-04,Away,Real Sociedad,W,1,0,49.0
+Barcelona,2023-11-12,Home,Alavés,W,2,1,71.0
+Barcelona,2023-11-25,Away,Rayo Vallecano,D,1,1,67.0
+Barcelona,2023-12-03,Home,Atlético Madrid,W,1,0,58.0
+Barcelona,2023-12-10,Home,Girona,L,2,4,54.0
+Barcelona,2023-12-16,Away,Valencia,D,1,1,63.0
+Barcelona,2023-12-20,Home,Almería,W,3,2,65.0
+Barcelona,2024-01-04,Away,Las Palmas,W,2,1,56.0
+Barcelona,2024-01-21,Away,Betis,W,4,2,63.0
+Barcelona,2024-01-27,Home,Villarreal,L,3,5,70.0
+Barcelona,2024-01-31,Home,Osasuna,W,1,0,68.0
+Barcelona,2024-02-03,Away,Alavés,W,3,1,64.0
+Barcelona,2024-02-11,Home,Granada,D,3,3,65.0
+Barcelona,2024-02-17,Away,Celta Vigo,W,2,1,66.0
+Barcelona,2024-02-24,Home,Getafe,W,4,0,67.0
+Barcelona,2024-03-03,Away,Athletic Club,D,0,0,60.0
+Barcelona,2024-03-08,Home,Mallorca,W,1,0,63.0
+Barcelona,2024-03-17,Away,Atlético Madrid,W,3,0,59.0
+Barcelona,2024-03-30,Home,Las Palmas,W,1,0,69.0
+Barcelona,2024-04-13,Away,Cádiz,W,1,0,62.0
+Barcelona,2024-04-21,Away,Real Madrid,L,2,3,53.0
+Barcelona,2024-04-29,Home,Valencia,W,4,2,80.0
+Barcelona,2024-05-04,Away,Girona,L,2,4,60.0
+Barcelona,2024-05-13,Home,Real Sociedad,W,2,0,56.0
+Barcelona,2024-05-16,Away,Almería,W,2,0,64.0
+Barcelona,2024-05-19,Home,Rayo Vallecano,W,3,0,72.0
+Barcelona,2024-05-26,Away,Sevilla,W,2,1,61.0
+Celta Vigo,2023-08-13,Home,Osasuna,L,0,2,53.0
+Celta Vigo,2023-08-19,Away,Real Sociedad,D,1,1,47.0
+Celta Vigo,2023-08-25,Home,Real Madrid,L,0,1,37.0
+Celta Vigo,2023-09-01,Away,Almería,W,3,2,37.0
+Celta Vigo,2023-09-16,Home,Mallorca,L,0,1,60.0
+Celta Vigo,2023-09-23,Away,Barcelona,L,2,3,26.0
+Celta Vigo,2023-09-28,Home,Alavés,D,1,1,46.0
+Celta Vigo,2023-10-02,Away,Las Palmas,L,1,2,27.0
+Celta Vigo,2023-10-08,Home,Getafe,D,2,2,74.0
+Celta Vigo,2023-10-21,Home,Atlético Madrid,L,0,3,36.0
+Celta Vigo,2023-10-27,Away,Girona,L,0,1,35.0
+Celta Vigo,2023-11-04,Home,Sevilla,D,1,1,39.0
+Celta Vigo,2023-11-10,Away,Athletic Club,L,3,4,42.0
+Celta Vigo,2023-11-25,Away,Valencia,D,0,0,45.0
+Celta Vigo,2023-12-04,Home,Cádiz,D,1,1,68.0
+Celta Vigo,2023-12-11,Away,Rayo Vallecano,D,0,0,37.0
+Celta Vigo,2023-12-16,Home,Granada,W,1,0,39.0
+Celta Vigo,2023-12-20,Away,Villarreal,L,2,3,51.0
+Celta Vigo,2024-01-03,Home,Betis,W,2,1,40.0
+Celta Vigo,2024-01-13,Away,Mallorca,D,1,1,43.0
+Celta Vigo,2024-01-20,Home,Real Sociedad,L,0,1,49.0
+Celta Vigo,2024-01-28,Home,Girona,L,0,1,40.0
+Celta Vigo,2024-02-04,Away,Osasuna,W,3,0,30.0
+Celta Vigo,2024-02-11,Away,Getafe,L,2,3,52.0
+Celta Vigo,2024-02-17,Home,Barcelona,L,1,2,34.0
+Celta Vigo,2024-02-25,Away,Cádiz,D,2,2,35.0
+Celta Vigo,2024-03-01,Home,Almería,W,1,0,66.0
+Celta Vigo,2024-03-10,Away,Real Madrid,L,0,4,38.0
+Celta Vigo,2024-03-17,Away,Sevilla,W,2,1,64.0
+Celta Vigo,2024-03-31,Home,Rayo Vallecano,D,0,0,61.0
+Celta Vigo,2024-04-12,Away,Betis,L,1,2,53.0
+Celta Vigo,2024-04-20,Home,Las Palmas,W,4,1,32.0
+Celta Vigo,2024-04-27,Away,Alavés,L,0,3,62.0
+Celta Vigo,2024-05-05,Home,Villarreal,W,3,2,53.0
+Celta Vigo,2024-05-12,Away,Atlético Madrid,L,0,1,44.0
+Celta Vigo,2024-05-15,Home,Athletic Club,W,2,1,53.0
+Celta Vigo,2024-05-19,Away,Granada,W,2,1,51.0
+Celta Vigo,2024-05-26,Home,Valencia,D,2,2,54.0
+Cádiz,2023-08-14,Home,Alavés,W,1,0,45.0
+Cádiz,2023-08-20,Away,Barcelona,L,0,2,26.0
+Cádiz,2023-08-26,Home,Almería,D,1,1,52.0
+Cádiz,2023-09-01,Home,Villarreal,W,3,1,43.0
+Cádiz,2023-09-16,Away,Athletic Club,L,0,3,35.0
+Cádiz,2023-09-24,Away,Betis,D,1,1,37.0
+Cádiz,2023-09-27,Home,Rayo Vallecano,D,0,0,52.0
+Cádiz,2023-10-01,Away,Atlético Madrid,L,2,3,31.0
+Cádiz,2023-10-07,Home,Girona,L,0,1,27.0
+Cádiz,2023-10-23,Away,Valencia,L,0,2,39.0
+Cádiz,2023-10-28,Home,Sevilla,D,2,2,34.0
+Cádiz,2023-11-06,Away,Getafe,L,0,1,55.0
+Cádiz,2023-11-26,Home,Real Madrid,L,0,3,39.0
+Cádiz,2023-11-29,Away,Mallorca,D,1,1,33.0
+Cádiz,2023-12-04,Away,Celta Vigo,D,1,1,32.0
+Cádiz,2023-12-10,Home,Osasuna,D,1,1,45.0
+Cádiz,2023-12-17,Away,Las Palmas,D,1,1,36.0
+Cádiz,2023-12-21,Home,Real Sociedad,D,0,0,40.0
+Cádiz,2024-01-03,Away,Granada,L,0,2,45.0
+Cádiz,2024-01-14,Home,Valencia,L,1,4,57.0
+Cádiz,2024-01-19,Away,Alavés,L,0,1,51.0
+Cádiz,2024-01-28,Home,Athletic Club,D,0,0,43.0
+Cádiz,2024-02-04,Away,Villarreal,D,0,0,41.0
+Cádiz,2024-02-09,Home,Betis,L,0,2,53.0
+Cádiz,2024-02-17,Away,Osasuna,L,0,2,44.0
+Cádiz,2024-02-25,Home,Celta Vigo,D,2,2,65.0
+Cádiz,2024-03-02,Away,Rayo Vallecano,D,1,1,47.0
+Cádiz,2024-03-09,Home,Atlético Madrid,W,2,0,40.0
+Cádiz,2024-03-15,Away,Real Sociedad,L,0,2,37.0
+Cádiz,2024-03-29,Home,Granada,W,1,0,59.0
+Cádiz,2024-04-13,Home,Barcelona,L,0,1,38.0
+Cádiz,2024-04-20,Away,Girona,L,1,4,43.0
+Cádiz,2024-04-28,Home,Mallorca,D,1,1,58.0
+Cádiz,2024-05-04,Away,Real Madrid,L,0,3,30.0
+Cádiz,2024-05-12,Home,Getafe,W,1,0,45.0
+Cádiz,2024-05-15,Away,Sevilla,W,1,0,44.0
+Cádiz,2024-05-19,Home,Las Palmas,D,0,0,49.0
+Cádiz,2024-05-25,Away,Almería,L,1,6,54.0
+Getafe,2023-08-13,Home,Barcelona,D,0,0,26.0
+Getafe,2023-08-20,Away,Girona,L,0,3,37.0
+Getafe,2023-08-28,Home,Alavés,W,1,0,47.0
+Getafe,2023-09-02,Away,Real Madrid,L,1,2,24.0
+Getafe,2023-09-17,Home,Osasuna,W,3,2,44.0
+Getafe,2023-09-24,Away,Real Sociedad,L,3,4,39.0
+Getafe,2023-09-27,Away,Athletic Club,D,2,2,51.0
+Getafe,2023-09-30,Home,Villarreal,D,0,0,64.0
+Getafe,2023-10-08,Away,Celta Vigo,D,2,2,26.0
+Getafe,2023-10-21,Home,Betis,D,1,1,45.0
+Getafe,2023-10-28,Away,Mallorca,D,0,0,41.0
+Getafe,2023-11-06,Home,Cádiz,W,1,0,45.0
+Getafe,2023-11-11,Away,Granada,D,1,1,42.0
+Getafe,2023-11-25,Home,Almería,W,2,1,53.0
+Getafe,2023-12-01,Away,Las Palmas,L,0,2,30.0
+Getafe,2023-12-08,Home,Valencia,W,1,0,67.0
+Getafe,2023-12-16,Away,Sevilla,W,3,0,43.0
+Getafe,2023-12-19,Away,Atlético Madrid,D,3,3,58.0
+Getafe,2024-01-02,Home,Rayo Vallecano,L,0,2,38.0
+Getafe,2024-01-21,Away,Osasuna,L,2,3,57.0
+Getafe,2024-01-29,Home,Granada,W,2,0,40.0
+Getafe,2024-02-01,Home,Real Madrid,L,0,2,42.0
+Getafe,2024-02-04,Away,Betis,D,1,1,46.0
+Getafe,2024-02-11,Home,Celta Vigo,W,3,2,48.0
+Getafe,2024-02-16,Away,Villarreal,D,1,1,45.0
+Getafe,2024-02-24,Away,Barcelona,L,0,4,33.0
+Getafe,2024-03-02,Home,Las Palmas,D,3,3,28.0
+Getafe,2024-03-09,Away,Valencia,L,0,1,49.0
+Getafe,2024-03-16,Home,Girona,W,1,0,41.0
+Getafe,2024-03-30,Home,Sevilla,L,0,1,66.0
+Getafe,2024-04-13,Away,Rayo Vallecano,D,0,0,37.0
+Getafe,2024-04-21,Home,Real Sociedad,D,1,1,41.0
+Getafe,2024-04-27,Away,Almería,W,3,1,44.0
+Getafe,2024-05-03,Home,Athletic Club,L,0,2,64.0
+Getafe,2024-05-12,Away,Cádiz,L,0,1,55.0
+Getafe,2024-05-15,Home,Atlético Madrid,L,0,3,45.0
+Getafe,2024-05-18,Away,Alavés,L,0,1,52.0
+Getafe,2024-05-26,Home,Mallorca,L,1,2,50.0
+Girona Match,2023-08-12,Away,Real Sociedad,D,1,1,52.0
+Girona Match,2023-08-20,Home,Getafe,W,3,0,63.0
+Girona Match,2023-08-26,Away,Sevilla,W,2,1,48.0
+Girona Match,2023-09-03,Home,Las Palmas,W,1,0,46.0
+Girona Match,2023-09-18,Away,Granada,W,4,2,57.0
+Girona Match,2023-09-23,Home,Mallorca,W,5,3,56.0
+Girona Match,2023-09-27,Away,Villarreal,W,2,1,47.0
+Girona Match,2023-09-30,Home,Real Madrid,L,0,3,52.0
+Girona Match,2023-10-07,Away,Cádiz,W,1,0,73.0
+Girona Match,2023-10-22,Home,Almería,W,5,2,66.0
+Girona Match,2023-10-27,Home,Celta Vigo,W,1,0,65.0
+Girona Match,2023-11-04,Away,Osasuna,W,4,2,50.0
+Girona Match,2023-11-11,Away,Rayo Vallecano,W,2,1,54.0
+Girona Match,2023-11-27,Home,Athletic Club,D,1,1,60.0
+Girona Match,2023-12-02,Home,Valencia,W,2,1,75.0
+Girona Match,2023-12-10,Away,Barcelona,W,4,2,46.0
+Girona Match,2023-12-18,Home,Alavés,W,3,0,66.0
+Girona Match,2023-12-21,Away,Betis,D,1,1,53.0
+Girona Match,2024-01-03,Home,Atlético Madrid,W,4,3,52.0
+Girona Match,2024-01-14,Away,Almería,D,0,0,54.0
+Girona Match,2024-01-21,Home,Sevilla,W,5,1,55.0
+Girona Match,2024-01-28,Away,Celta Vigo,W,1,0,60.0
+Girona Match,2024-02-03,Home,Real Sociedad,D,0,0,49.0
+Girona Match,2024-02-10,Away,Real Madrid,L,0,4,47.0
+Girona Match,2024-02-19,Away,Athletic Club,L,2,3,69.0
+Girona Match,2024-02-26,Home,Rayo Vallecano,W,3,0,54.0
+Girona Match,2024-03-03,Away,Mallorca,L,0,1,60.0
+Girona Match,2024-03-09,Home,Osasuna,W,2,0,60.0
+Girona Match,2024-03-16,Away,Getafe,L,0,1,59.0
+Girona Match,2024-03-31,Home,Betis,W,3,2,57.0
+Girona Match,2024-04-13,Away,Atlético Madrid,L,1,3,59.0
+Girona Match,2024-04-20,Home,Cádiz,W,4,1,57.0
+Girona Match,2024-04-27,Away,Las Palmas,W,2,0,39.0
+Girona Match,2024-05-04,Home,Barcelona,W,4,2,40.0
+Girona Match,2024-05-10,Away,Alavés,D,2,2,64.0
+Girona Match,2024-05-14,Home,Villarreal,L,0,1,67.0
+Girona Match,2024-05-19,Away,Valencia,W,3,1,63.0
+Girona Match,2024-05-24,Home,Granada,W,7,0,70.0
+Granada,2023-08-14,Away,Atlético Madrid,L,1,3,54.0
+Granada,2023-08-21,Home,Rayo Vallecano,L,0,2,48.0
+Granada,2023-08-26,Home,Mallorca,W,3,2,53.0
+Granada,2023-09-02,Away,Real Sociedad,L,3,5,39.0
+Granada,2023-09-18,Home,Girona,L,2,4,43.0
+Granada,2023-09-24,Away,Las Palmas,L,0,1,44.0
+Granada,2023-09-28,Home,Betis,D,1,1,39.0
+Granada,2023-10-01,Away,Almería,D,3,3,51.0
+Granada,2023-10-08,Home,Barcelona,D,2,2,20.0
+Granada,2023-10-20,Away,Osasuna,L,0,2,42.0
+Granada,2023-10-30,Home,Villarreal,L,2,3,46.0
+Granada,2023-11-05,Away,Valencia,L,0,1,49.0
+Granada,2023-11-11,Home,Getafe,D,1,1,58.0
+Granada,2023-11-24,Away,Alavés,L,1,3,57.0
+Granada,2023-12-02,Away,Real Madrid,L,0,2,29.0
+Granada,2023-12-11,Home,Athletic Club,D,1,1,48.0
+Granada,2023-12-16,Away,Celta Vigo,L,0,1,61.0
+Granada,2023-12-19,Home,Sevilla,L,0,3,52.0
+Granada,2024-01-03,Home,Cádiz,W,2,0,55.0
+Granada,2024-01-13,Away,Betis,L,0,1,43.0
+Granada,2024-01-22,Home,Atlético Madrid,L,0,1,53.0
+Granada,2024-01-29,Away,Getafe,L,0,2,60.0
+Granada,2024-02-03,Home,Las Palmas,D,1,1,23.0
+Granada,2024-02-11,Away,Barcelona,D,3,3,35.0
+Granada,2024-02-18,Home,Almería,D,1,1,58.0
+Granada,2024-03-03,Away,Villarreal,L,1,5,52.0
+Granada,2024-03-09,Home,Real Sociedad,L,2,3,37.0
+Granada,2024-03-16,Away,Mallorca,L,0,1,48.0
+Granada,2024-03-29,Away,Cádiz,L,0,1,41.0
+Granada,2024-04-04,Home,Valencia,L,0,1,57.0
+Granada,2024-04-14,Home,Alavés,W,2,0,38.0
+Granada,2024-04-19,Away,Athletic Club,D,1,1,33.0
+Granada,2024-04-28,Home,Osasuna,W,3,0,38.0
+Granada,2024-05-05,Away,Sevilla,L,0,3,40.0
+Granada,2024-05-11,Home,Real Madrid,L,0,4,42.0
+Granada,2024-05-15,Away,Rayo Vallecano,L,1,2,67.0
+Granada,2024-05-19,Home,Celta Vigo,L,1,2,49.0
+Granada,2024-05-24,Away,Girona,L,0,7,30.0
+La Palmas.html,2023-08-12,Home,Mallorca,D,1,1,68.0
+La Palmas.html,2023-08-18,Away,Valencia,L,0,1,61.0
+La Palmas.html,2023-08-25,Home,Real Sociedad,D,0,0,52.0
+La Palmas.html,2023-09-03,Away,Girona,L,0,1,54.0
+La Palmas.html,2023-09-17,Away,Sevilla,L,0,1,57.0
+La Palmas.html,2023-09-24,Home,Granada,W,1,0,56.0
+La Palmas.html,2023-09-27,Away,Real Madrid,L,0,2,52.0
+La Palmas.html,2023-10-02,Home,Celta Vigo,W,2,1,73.0
+La Palmas.html,2023-10-08,Away,Villarreal,W,2,1,51.0
+La Palmas.html,2023-10-22,Home,Rayo Vallecano,L,0,1,60.0
+La Palmas.html,2023-10-28,Away,Almería,W,2,1,59.0
+La Palmas.html,2023-11-03,Home,Atlético Madrid,W,2,1,52.0
+La Palmas.html,2023-11-11,Away,Osasuna,D,1,1,54.0
+La Palmas.html,2023-11-26,Away,Betis,L,0,1,61.0
+La Palmas.html,2023-12-01,Home,Getafe,W,2,0,70.0
+La Palmas.html,2023-12-09,Away,Alavés,W,1,0,59.0
+La Palmas.html,2023-12-17,Home,Cádiz,D,1,1,64.0
+La Palmas.html,2023-12-20,Away,Athletic Club,L,0,1,50.0
+La Palmas.html,2024-01-04,Home,Barcelona,L,1,2,44.0
+La Palmas.html,2024-01-13,Home,Villarreal,W,3,0,54.0
+La Palmas.html,2024-01-20,Away,Rayo Vallecano,W,2,0,55.0
+La Palmas.html,2024-01-27,Home,Real Madrid,L,1,2,53.0
+La Palmas.html,2024-02-03,Away,Granada,D,1,1,77.0
+La Palmas.html,2024-02-10,Home,Valencia,W,2,0,72.0
+La Palmas.html,2024-02-17,Away,Atlético Madrid,L,0,5,64.0
+La Palmas.html,2024-02-25,Home,Osasuna,D,1,1,71.0
+La Palmas.html,2024-03-02,Away,Getafe,D,3,3,72.0
+La Palmas.html,2024-03-10,Home,Athletic Club,L,0,2,70.0
+La Palmas.html,2024-03-17,Home,Almería,L,0,1,65.0
+La Palmas.html,2024-03-30,Away,Barcelona,L,0,1,31.0
+La Palmas.html,2024-04-14,Home,Sevilla,L,0,2,63.0
+La Palmas.html,2024-04-20,Away,Celta Vigo,L,1,4,68.0
+La Palmas.html,2024-04-27,Home,Girona,L,0,2,61.0
+La Palmas.html,2024-05-04,Away,Real Sociedad,L,0,2,48.0
+La Palmas.html,2024-05-11,Away,Mallorca,L,0,1,56.0
+La Palmas.html,2024-05-16,Home,Betis,D,2,2,57.0
+La Palmas.html,2024-05-19,Away,Cádiz,D,0,0,51.0
+La Palmas.html,2024-05-26,Home,Alavés,D,1,1,65.0
+Mallorca,2023-08-12,Away,Las Palmas,D,1,1,32.0
+Mallorca,2023-08-18,Home,Villarreal,L,0,1,40.0
+Mallorca,2023-08-26,Away,Granada,L,2,3,47.0
+Mallorca,2023-09-03,Home,Athletic Club,D,0,0,33.0
+Mallorca,2023-09-16,Away,Celta Vigo,W,1,0,40.0
+Mallorca,2023-09-23,Away,Girona,L,3,5,44.0
+Mallorca,2023-09-26,Home,Barcelona,D,2,2,31.0
+Mallorca,2023-09-30,Away,Rayo Vallecano,D,2,2,40.0
+Mallorca,2023-10-07,Home,Valencia,D,1,1,49.0
+Mallorca,2023-10-21,Away,Real Sociedad,L,0,1,44.0
+Mallorca,2023-10-28,Home,Getafe,D,0,0,59.0
+Mallorca,2023-11-04,Away,Betis,L,0,2,43.0
+Mallorca,2023-11-25,Away,Atlético Madrid,L,0,1,32.0
+Mallorca,2023-11-29,Home,Cádiz,D,1,1,67.0
+Mallorca,2023-12-03,Home,Alavés,D,0,0,63.0
+Mallorca,2023-12-09,Home,Sevilla,W,1,0,35.0
+Mallorca,2023-12-17,Away,Almería,D,0,0,47.0
+Mallorca,2023-12-21,Home,Osasuna,W,3,2,42.0
+Mallorca,2024-01-03,Away,Real Madrid,L,0,1,33.0
+Mallorca,2024-01-13,Home,Celta Vigo,D,1,1,57.0
+Mallorca,2024-01-20,Away,Villarreal,D,1,1,49.0
+Mallorca,2024-01-27,Home,Betis,L,0,1,53.0
+Mallorca,2024-02-02,Away,Athletic Club,L,0,4,38.0
+Mallorca,2024-02-11,Home,Rayo Vallecano,W,2,1,49.0
+Mallorca,2024-02-18,Home,Real Sociedad,L,1,2,33.0
+Mallorca,2024-02-24,Away,Alavés,D,1,1,48.0
+Mallorca,2024-03-03,Home,Girona,W,1,0,40.0
+Mallorca,2024-03-08,Away,Barcelona,L,0,1,37.0
+Mallorca,2024-03-16,Home,Granada,W,1,0,52.0
+Mallorca,2024-03-30,Away,Valencia,D,0,0,47.0
+Mallorca,2024-04-13,Home,Real Madrid,L,0,1,44.0
+Mallorca,2024-04-22,Away,Sevilla,L,1,2,46.0
+Mallorca,2024-04-28,Away,Cádiz,D,1,1,42.0
+Mallorca,2024-05-04,Home,Atlético Madrid,L,0,1,59.0
+Mallorca,2024-05-11,Home,Las Palmas,W,1,0,44.0
+Mallorca,2024-05-14,Away,Osasuna,D,1,1,48.0
+Mallorca,2024-05-19,Home,Almería,D,2,2,52.0
+Mallorca,2024-05-26,Away,Getafe,W,2,1,50.0
+Osasuna,2023-08-13,Away,Celta Vigo,W,2,0,47.0
+Osasuna,2023-08-19,Home,Athletic Club,L,0,2,63.0
+Osasuna,2023-08-27,Away,Valencia,W,2,1,36.0
+Osasuna,2023-09-03,Home,Barcelona,L,1,2,31.0
+Osasuna,2023-09-17,Away,Getafe,L,2,3,56.0
+Osasuna,2023-09-23,Home,Sevilla,D,0,0,44.0
+Osasuna,2023-09-28,Home,Atlético Madrid,L,0,2,55.0
+Osasuna,2023-10-01,Away,Alavés,W,2,0,54.0
+Osasuna,2023-10-07,Away,Real Madrid,L,0,4,33.0
+Osasuna,2023-10-20,Home,Granada,W,2,0,58.0
+Osasuna,2023-10-29,Away,Betis,L,1,2,49.0
+Osasuna,2023-11-04,Home,Girona,L,2,4,50.0
+Osasuna,2023-11-11,Home,Las Palmas,D,1,1,46.0
+Osasuna,2023-11-26,Away,Villarreal,L,1,3,55.0
+Osasuna,2023-12-02,Home,Real Sociedad,D,1,1,29.0
+Osasuna,2023-12-10,Away,Cádiz,D,1,1,55.0
+Osasuna,2023-12-15,Home,Rayo Vallecano,W,1,0,60.0
+Osasuna,2023-12-21,Away,Mallorca,L,2,3,58.0
+Osasuna,2024-01-04,Home,Almería,W,1,0,52.0
+Osasuna,2024-01-21,Home,Getafe,W,3,2,43.0
+Osasuna,2024-01-28,Away,Sevilla,D,1,1,56.0
+Osasuna,2024-01-31,Away,Barcelona,L,0,1,32.0
+Osasuna,2024-02-04,Home,Celta Vigo,L,0,3,70.0
+Osasuna,2024-02-10,Away,Real Sociedad,W,1,0,32.0
+Osasuna,2024-02-17,Home,Cádiz,W,2,0,56.0
+Osasuna,2024-02-25,Away,Las Palmas,D,1,1,29.0
+Osasuna,2024-03-04,Home,Alavés,W,1,0,55.0
+Osasuna,2024-03-09,Away,Girona,L,0,2,40.0
+Osasuna,2024-03-16,Home,Real Madrid,L,2,4,36.0
+Osasuna,2024-03-30,Away,Almería,W,3,0,49.0
+Osasuna,2024-04-15,Home,Valencia,L,0,1,65.0
+Osasuna,2024-04-20,Away,Rayo Vallecano,L,1,2,36.0
+Osasuna,2024-04-28,Away,Granada,L,0,3,62.0
+Osasuna,2024-05-05,Home,Betis,L,0,2,42.0
+Osasuna,2024-05-11,Away,Athletic Club,D,2,2,33.0
+Osasuna,2024-05-14,Home,Mallorca,D,1,1,52.0
+Osasuna,2024-05-19,Away,Atlético Madrid,W,4,1,44.0
+Osasuna,2024-05-25,Home,Villarreal,D,1,1,43.0
+Rayo Vallecano,2023-08-11,Away,Almería,W,2,0,40.0
+Rayo Vallecano,2023-08-21,Away,Granada,W,2,0,52.0
+Rayo Vallecano,2023-08-28,Home,Atlético Madrid,L,0,7,56.0
+Rayo Vallecano,2023-09-02,Away,Betis,L,0,1,45.0
+Rayo Vallecano,2023-09-15,Home,Alavés,W,2,0,51.0
+Rayo Vallecano,2023-09-24,Home,Villarreal,D,1,1,42.0
+Rayo Vallecano,2023-09-27,Away,Cádiz,D,0,0,48.0
+Rayo Vallecano,2023-09-30,Home,Mallorca,D,2,2,60.0
+Rayo Vallecano,2023-10-07,Away,Sevilla,D,2,2,36.0
+Rayo Vallecano,2023-10-22,Away,Las Palmas,W,1,0,40.0
+Rayo Vallecano,2023-10-29,Home,Real Sociedad,D,2,2,55.0
+Rayo Vallecano,2023-11-05,Away,Real Madrid,D,0,0,37.0
+Rayo Vallecano,2023-11-11,Home,Girona,L,1,2,46.0
+Rayo Vallecano,2023-11-25,Home,Barcelona,D,1,1,33.0
+Rayo Vallecano,2023-12-02,Away,Athletic Club,L,0,4,49.0
+Rayo Vallecano,2023-12-11,Home,Celta Vigo,D,0,0,63.0
+Rayo Vallecano,2023-12-15,Away,Osasuna,L,0,1,40.0
+Rayo Vallecano,2023-12-19,Home,Valencia,L,0,1,59.0
+Rayo Vallecano,2024-01-02,Away,Getafe,W,2,0,62.0
+Rayo Vallecano,2024-01-20,Home,Las Palmas,L,0,2,45.0
+Rayo Vallecano,2024-01-27,Away,Real Sociedad,D,0,0,49.0
+Rayo Vallecano,2024-01-31,Away,Atlético Madrid,L,1,2,46.0
+Rayo Vallecano,2024-02-05,Home,Sevilla,L,1,2,66.0
+Rayo Vallecano,2024-02-11,Away,Mallorca,L,1,2,51.0
+Rayo Vallecano,2024-02-18,Home,Real Madrid,D,1,1,41.0
+Rayo Vallecano,2024-02-26,Away,Girona,L,0,3,46.0
+Rayo Vallecano,2024-03-02,Home,Cádiz,D,1,1,53.0
+Rayo Vallecano,2024-03-10,Away,Alavés,L,0,1,66.0
+Rayo Vallecano,2024-03-17,Home,Betis,W,2,0,39.0
+Rayo Vallecano,2024-03-31,Away,Celta Vigo,D,0,0,39.0
+Rayo Vallecano,2024-04-13,Home,Getafe,D,0,0,63.0
+Rayo Vallecano,2024-04-20,Home,Osasuna,W,2,1,64.0
+Rayo Vallecano,2024-04-28,Away,Villarreal,L,0,3,54.0
+Rayo Vallecano,2024-05-05,Home,Almería,L,0,1,68.0
+Rayo Vallecano,2024-05-12,Away,Valencia,D,0,0,49.0
+Rayo Vallecano,2024-05-15,Home,Granada,W,2,1,33.0
+Rayo Vallecano,2024-05-19,Away,Barcelona,L,0,3,28.0
+Rayo Vallecano,2024-05-25,Home,Athletic Club,L,0,1,63.0
+Real Betis ,2023-08-13,Away,Villarreal,W,2,1,37.0
+Real Betis ,2023-08-20,Home,Atlético Madrid,D,0,0,53.0
+Real Betis ,2023-08-27,Away,Athletic Club,L,2,4,52.0
+Real Betis ,2023-09-02,Home,Rayo Vallecano,W,1,0,55.0
+Real Betis ,2023-09-16,Away,Barcelona,L,0,5,35.0
+Real Betis ,2023-09-24,Home,Cádiz,D,1,1,63.0
+Real Betis ,2023-09-28,Away,Granada,D,1,1,61.0
+Real Betis ,2023-10-01,Home,Valencia,W,3,0,55.0
+Real Betis ,2023-10-08,Away,Alavés,D,1,1,60.0
+Real Betis ,2023-10-21,Away,Getafe,D,1,1,55.0
+Real Betis ,2023-10-29,Home,Osasuna,W,2,1,51.0
+Real Betis ,2023-11-04,Home,Mallorca,W,2,0,57.0
+Real Betis ,2023-11-12,Away,Sevilla,D,1,1,39.0
+Real Betis ,2023-11-26,Home,Las Palmas,W,1,0,39.0
+Real Betis ,2023-12-03,Away,Almería,D,0,0,38.0
+Real Betis ,2023-12-09,Home,Real Madrid,D,1,1,37.0
+Real Betis ,2023-12-17,Away,Real Sociedad,D,0,0,43.0
+Real Betis ,2023-12-21,Home,Girona,D,1,1,47.0
+Real Betis ,2024-01-03,Away,Celta Vigo,L,1,2,60.0
+Real Betis ,2024-01-13,Home,Granada,W,1,0,57.0
+Real Betis ,2024-01-21,Home,Barcelona,L,2,4,37.0
+Real Betis ,2024-01-27,Away,Mallorca,W,1,0,47.0
+Real Betis ,2024-02-04,Home,Getafe,D,1,1,54.0
+Real Betis ,2024-02-09,Away,Cádiz,W,2,0,47.0
+Real Betis ,2024-02-18,Home,Alavés,D,0,0,62.0
+Real Betis ,2024-02-25,Home,Athletic Club,W,3,1,57.0
+Real Betis ,2024-03-03,Away,Atlético Madrid,L,1,2,58.0
+Real Betis ,2024-03-10,Home,Villarreal,L,2,3,54.0
+Real Betis ,2024-03-17,Away,Rayo Vallecano,L,0,2,61.0
+Real Betis ,2024-03-31,Away,Girona,L,2,3,43.0
+Real Betis ,2024-04-12,Home,Celta Vigo,W,2,1,47.0
+Real Betis ,2024-04-20,Away,Valencia,W,2,1,46.0
+Real Betis ,2024-04-28,Home,Sevilla,D,1,1,50.0
+Real Betis ,2024-05-05,Away,Osasuna,W,2,0,58.0
+Real Betis ,2024-05-12,Home,Almería,W,3,2,48.0
+Real Betis ,2024-05-16,Away,Las Palmas,D,2,2,43.0
+Real Betis ,2024-05-19,Home,Real Sociedad,L,0,2,67.0
+Real Betis ,2024-05-25,Away,Real Madrid,D,0,0,41.0
+Real Madrid  Possession.html,2023-08-12,Away,Athletic Club,W,2,0,54.0
+Real Madrid  Possession.html,2023-08-19,Away,Almería,W,3,1,57.0
+Real Madrid  Possession.html,2023-08-25,Away,Celta Vigo,W,1,0,63.0
+Real Madrid  Possession.html,2023-09-02,Home,Getafe,W,2,1,76.0
+Real Madrid  Possession.html,2023-09-17,Home,Real Sociedad,W,2,1,52.0
+Real Madrid  Possession.html,2023-09-24,Away,Atlético Madrid,L,1,3,63.0
+Real Madrid  Possession.html,2023-09-27,Home,Las Palmas,W,2,0,48.0
+Real Madrid  Possession.html,2023-09-30,Away,Girona,W,3,0,48.0
+Real Madrid  Possession.html,2023-10-07,Home,Osasuna,W,4,0,67.0
+Real Madrid  Possession.html,2023-10-21,Away,Sevilla,D,1,1,51.0
+Real Madrid  Possession.html,2023-10-28,Away,Barcelona,W,2,1,47.0
+Real Madrid  Possession.html,2023-11-05,Home,Rayo Vallecano,D,0,0,63.0
+Real Madrid  Possession.html,2023-11-11,Home,Valencia,W,5,1,56.0
+Real Madrid  Possession.html,2023-11-26,Away,Cádiz,W,3,0,61.0
+Real Madrid  Possession.html,2023-12-02,Home,Granada,W,2,0,71.0
+Real Madrid  Possession.html,2023-12-09,Away,Betis,D,1,1,63.0
+Real Madrid  Possession.html,2023-12-17,Home,Villarreal,W,4,1,60.0
+Real Madrid  Possession.html,2023-12-21,Away,Alavés,W,1,0,60.0
+Real Madrid  Possession.html,2024-01-03,Home,Mallorca,W,1,0,67.0
+Real Madrid  Possession.html,2024-01-21,Home,Almería,W,3,2,73.0
+Real Madrid  Possession.html,2024-01-27,Away,Las Palmas,W,2,1,47.0
+Real Madrid  Possession.html,2024-02-01,Away,Getafe,W,2,0,58.0
+Real Madrid  Possession.html,2024-02-04,Home,Atlético Madrid,D,1,1,54.0
+Real Madrid  Possession.html,2024-02-10,Home,Girona,W,4,0,53.0
+Real Madrid  Possession.html,2024-02-18,Away,Rayo Vallecano,D,1,1,59.0
+Real Madrid  Possession.html,2024-02-25,Home,Sevilla,W,1,0,64.0
+Real Madrid  Possession.html,2024-03-02,Away,Valencia,D,2,2,70.0
+Real Madrid  Possession.html,2024-03-10,Home,Celta Vigo,W,4,0,62.0
+Real Madrid  Possession.html,2024-03-16,Away,Osasuna,W,4,2,64.0
+Real Madrid  Possession.html,2024-03-31,Home,Athletic Club,W,2,0,58.0
+Real Madrid  Possession.html,2024-04-13,Away,Mallorca,W,1,0,56.0
+Real Madrid  Possession.html,2024-04-21,Home,Barcelona,W,3,2,47.0
+Real Madrid  Possession.html,2024-04-26,Away,Real Sociedad,W,1,0,44.0
+Real Madrid  Possession.html,2024-05-04,Home,Cádiz,W,3,0,70.0
+Real Madrid  Possession.html,2024-05-11,Away,Granada,W,4,0,58.0
+Real Madrid  Possession.html,2024-05-14,Home,Alavés,W,5,0,71.0
+Real Madrid  Possession.html,2024-05-19,Away,Villarreal,D,4,4,57.0
+Real Madrid  Possession.html,2024-05-25,Home,Betis,D,0,0,59.0
+Real Sociedad,2023-08-12,Home,Girona,D,1,1,48.0
+Real Sociedad,2023-08-19,Home,Celta Vigo,D,1,1,53.0
+Real Sociedad,2023-08-25,Away,Las Palmas,D,0,0,48.0
+Real Sociedad,2023-09-02,Home,Granada,W,5,3,61.0
+Real Sociedad,2023-09-17,Away,Real Madrid,L,1,2,48.0
+Real Sociedad,2023-09-24,Home,Getafe,W,4,3,61.0
+Real Sociedad,2023-09-27,Away,Valencia,W,1,0,62.0
+Real Sociedad,2023-09-30,Home,Athletic Club,W,3,0,51.0
+Real Sociedad,2023-10-08,Away,Atlético Madrid,L,1,2,62.0
+Real Sociedad,2023-10-21,Home,Mallorca,W,1,0,56.0
+Real Sociedad,2023-10-29,Away,Rayo Vallecano,D,2,2,45.0
+Real Sociedad,2023-11-04,Home,Barcelona,L,0,1,51.0
+Real Sociedad,2023-11-11,Away,Almería,W,3,1,53.0
+Real Sociedad,2023-11-26,Home,Sevilla,W,2,1,49.0
+Real Sociedad,2023-12-02,Away,Osasuna,D,1,1,71.0
+Real Sociedad,2023-12-09,Away,Villarreal,W,3,0,47.0
+Real Sociedad,2023-12-17,Home,Betis,D,0,0,57.0
+Real Sociedad,2023-12-21,Away,Cádiz,D,0,0,60.0
+Real Sociedad,2024-01-02,Home,Alavés,D,1,1,53.0
+Real Sociedad,2024-01-13,Away,Athletic Club,L,1,2,51.0
+Real Sociedad,2024-01-20,Away,Celta Vigo,W,1,0,51.0
+Real Sociedad,2024-01-27,Home,Rayo Vallecano,D,0,0,51.0
+Real Sociedad,2024-02-03,Away,Girona,D,0,0,51.0
+Real Sociedad,2024-02-10,Home,Osasuna,L,0,1,68.0
+Real Sociedad,2024-02-18,Away,Mallorca,W,2,1,67.0
+Real Sociedad,2024-02-23,Home,Villarreal,L,1,3,70.0
+Real Sociedad,2024-03-02,Away,Sevilla,L,2,3,61.0
+Real Sociedad,2024-03-09,Away,Granada,W,3,2,63.0
+Real Sociedad,2024-03-15,Home,Cádiz,W,2,0,63.0
+Real Sociedad,2024-03-31,Away,Alavés,W,1,0,59.0
+Real Sociedad,2024-04-14,Home,Almería,D,2,2,50.0
+Real Sociedad,2024-04-21,Away,Getafe,D,1,1,59.0
+Real Sociedad,2024-04-26,Home,Real Madrid,L,0,1,56.0
+Real Sociedad,2024-05-04,Home,Las Palmas,W,2,0,52.0
+Real Sociedad,2024-05-13,Away,Barcelona,L,0,2,44.0
+Real Sociedad,2024-05-16,Home,Valencia,W,1,0,57.0
+Real Sociedad,2024-05-19,Away,Betis,W,2,0,33.0
+Real Sociedad,2024-05-25,Home,Atlético Madrid,L,0,2,59.0
+Sevilla,2023-08-11,Home,Valencia,L,1,2,55.0
+Sevilla,2023-08-21,Away,Alavés,L,3,4,66.0
+Sevilla,2023-08-26,Home,Girona,L,1,2,52.0
+Sevilla,2023-09-17,Home,Las Palmas,W,1,0,43.0
+Sevilla,2023-09-23,Away,Osasuna,D,0,0,56.0
+Sevilla,2023-09-26,Home,Almería,W,5,1,46.0
+Sevilla,2023-09-29,Away,Barcelona,L,0,1,42.0
+Sevilla,2023-10-07,Home,Rayo Vallecano,D,2,2,64.0
+Sevilla,2023-10-21,Home,Real Madrid,D,1,1,49.0
+Sevilla,2023-10-28,Away,Cádiz,D,2,2,66.0
+Sevilla,2023-11-04,Away,Celta Vigo,D,1,1,61.0
+Sevilla,2023-11-12,Home,Betis,D,1,1,61.0
+Sevilla,2023-11-26,Away,Real Sociedad,L,1,2,51.0
+Sevilla,2023-12-03,Home,Villarreal,D,1,1,57.0
+Sevilla,2023-12-09,Away,Mallorca,L,0,1,65.0
+Sevilla,2023-12-16,Home,Getafe,L,0,3,57.0
+Sevilla,2023-12-19,Away,Granada,W,3,0,48.0
+Sevilla,2023-12-23,Away,Atlético Madrid,L,0,1,50.0
+Sevilla,2024-01-04,Home,Athletic Club,L,0,2,61.0
+Sevilla,2024-01-12,Home,Alavés,L,2,3,68.0
+Sevilla,2024-01-21,Away,Girona,L,1,5,45.0
+Sevilla,2024-01-28,Home,Osasuna,D,1,1,44.0
+Sevilla,2024-02-05,Away,Rayo Vallecano,W,2,1,34.0
+Sevilla,2024-02-11,Home,Atlético Madrid,W,1,0,39.0
+Sevilla,2024-02-17,Away,Valencia,D,0,0,46.0
+Sevilla,2024-02-25,Away,Real Madrid,L,0,1,36.0
+Sevilla,2024-03-02,Home,Real Sociedad,W,3,2,39.0
+Sevilla,2024-03-11,Away,Almería,D,2,2,56.0
+Sevilla,2024-03-17,Home,Celta Vigo,L,1,2,36.0
+Sevilla,2024-03-30,Away,Getafe,W,1,0,34.0
+Sevilla,2024-04-14,Away,Las Palmas,W,2,0,37.0
+Sevilla,2024-04-22,Home,Mallorca,W,2,1,54.0
+Sevilla,2024-04-28,Away,Betis,D,1,1,50.0
+Sevilla,2024-05-05,Home,Granada,W,3,0,60.0
+Sevilla,2024-05-11,Away,Villarreal,L,2,3,41.0
+Sevilla,2024-05-15,Home,Cádiz,L,0,1,56.0
+Sevilla,2024-05-19,Away,Athletic Club,L,0,2,47.0
+Sevilla,2024-05-26,Home,Barcelona,L,1,2,39.0
+Valencia,2023-08-11,Away,Sevilla,W,2,1,45.0
+Valencia,2023-08-18,Home,Las Palmas,W,1,0,39.0
+Valencia,2023-08-27,Home,Osasuna,L,1,2,64.0
+Valencia,2023-09-02,Away,Alavés,L,0,1,60.0
+Valencia,2023-09-16,Home,Atlético Madrid,W,3,0,37.0
+Valencia,2023-09-23,Away,Almería,D,2,2,39.0
+Valencia,2023-09-27,Home,Real Sociedad,L,0,1,38.0
+Valencia,2023-10-01,Away,Betis,L,0,3,45.0
+Valencia,2023-10-07,Away,Mallorca,D,1,1,51.0
+Valencia,2023-10-23,Home,Cádiz,W,2,0,61.0
+Valencia,2023-10-29,Away,Athletic Club,D,2,2,43.0
+Valencia,2023-11-05,Home,Granada,W,1,0,51.0
+Valencia,2023-11-11,Away,Real Madrid,L,1,5,44.0
+Valencia,2023-11-25,Home,Celta Vigo,D,0,0,55.0
+Valencia,2023-12-02,Away,Girona,L,1,2,25.0
+Valencia,2023-12-08,Away,Getafe,L,0,1,33.0
+Valencia,2023-12-16,Home,Barcelona,D,1,1,37.0
+Valencia,2023-12-19,Away,Rayo Vallecano,W,1,0,41.0
+Valencia,2024-01-02,Home,Villarreal,W,3,1,46.0
+Valencia,2024-01-14,Away,Cádiz,W,4,1,43.0
+Valencia,2024-01-20,Home,Athletic Club,W,1,0,40.0
+Valencia,2024-01-28,Away,Atlético Madrid,L,0,2,46.0
+Valencia,2024-02-03,Home,Almería,W,2,1,48.0
+Valencia,2024-02-10,Away,Las Palmas,L,0,2,28.0
+Valencia,2024-02-17,Home,Sevilla,D,0,0,54.0
+Valencia,2024-03-02,Home,Real Madrid,D,2,2,30.0
+Valencia,2024-03-09,Home,Getafe,W,1,0,51.0
+Valencia,2024-03-17,Away,Villarreal,L,0,1,48.0
+Valencia,2024-03-30,Home,Mallorca,D,0,0,53.0
+Valencia,2024-04-04,Away,Granada,W,1,0,43.0
+Valencia,2024-04-15,Away,Osasuna,W,1,0,35.0
+Valencia,2024-04-20,Home,Betis,L,1,2,54.0
+Valencia,2024-04-29,Away,Barcelona,L,2,4,20.0
+Valencia,2024-05-05,Home,Alavés,L,0,1,58.0
+Valencia,2024-05-12,Home,Rayo Vallecano,D,0,0,51.0
+Valencia,2024-05-16,Away,Real Sociedad,L,0,1,43.0
+Valencia,2024-05-19,Home,Girona,L,1,3,37.0
+Valencia,2024-05-26,Away,Celta Vigo,D,2,2,46.0
+Villarreal,2023-08-13,Home,Betis,L,1,2,63.0
+Villarreal,2023-08-18,Away,Mallorca,W,1,0,60.0
+Villarreal,2023-08-27,Home,Barcelona,L,3,4,40.0
+Villarreal,2023-09-01,Away,Cádiz,L,1,3,57.0
+Villarreal,2023-09-17,Home,Almería,W,2,1,62.0
+Villarreal,2023-09-24,Away,Rayo Vallecano,D,1,1,58.0
+Villarreal,2023-09-27,Home,Girona,L,1,2,53.0
+Villarreal,2023-09-30,Away,Getafe,D,0,0,36.0
+Villarreal,2023-10-08,Home,Las Palmas,L,1,2,49.0
+Villarreal,2023-10-22,Home,Alavés,D,1,1,68.0
+Villarreal,2023-10-30,Away,Granada,W,3,2,54.0
+Villarreal,2023-11-05,Home,Athletic Club,L,2,3,58.0
+Villarreal,2023-11-12,Away,Atlético Madrid,L,1,3,50.0
+Villarreal,2023-11-26,Home,Osasuna,W,3,1,45.0
+Villarreal,2023-12-03,Away,Sevilla,D,1,1,43.0
+Villarreal,2023-12-09,Home,Real Sociedad,L,0,3,53.0
+Villarreal,2023-12-17,Away,Real Madrid,L,1,4,40.0
+Villarreal,2023-12-20,Home,Celta Vigo,W,3,2,49.0
+Villarreal,2024-01-02,Away,Valencia,L,1,3,54.0
+Villarreal,2024-01-13,Away,Las Palmas,L,0,3,46.0
+Villarreal,2024-01-20,Home,Mallorca,D,1,1,51.0
+Villarreal,2024-01-27,Away,Barcelona,W,5,3,30.0
+Villarreal,2024-02-04,Home,Cádiz,D,0,0,59.0
+Villarreal,2024-02-10,Away,Alavés,D,1,1,49.0
+Villarreal,2024-02-16,Home,Getafe,D,1,1,55.0
+Villarreal,2024-02-23,Away,Real Sociedad,W,3,1,30.0
+Villarreal,2024-03-03,Home,Granada,W,5,1,48.0
+Villarreal,2024-03-10,Away,Betis,W,3,2,46.0
+Villarreal,2024-03-17,Home,Valencia,W,1,0,52.0
+Villarreal,2024-04-01,Home,Atlético Madrid,L,1,2,52.0
+Villarreal,2024-04-14,Away,Athletic Club,D,1,1,47.0
+Villarreal,2024-04-21,Away,Almería,W,2,1,43.0
+Villarreal,2024-04-28,Home,Rayo Vallecano,W,3,0,46.0
+Villarreal,2024-05-05,Away,Celta Vigo,L,2,3,47.0
+Villarreal,2024-05-11,Home,Sevilla,W,3,2,59.0
+Villarreal,2024-05-14,Away,Girona,W,1,0,33.0
+Villarreal,2024-05-19,Home,Real Madrid,D,4,4,43.0
+Villarreal,2024-05-25,Away,Osasuna,D,1,1,57.0
