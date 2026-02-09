@@ -2,7 +2,16 @@
 
 **Project Overview**  
 Analysis of Premier League and La Liga data (2023-2024 season)  
-Date: December 27, 2025
+Date: February 9, 2026  
+**✨ Updated with Comprehensive Regression Analysis**
+
+> **Note**: This report has been enhanced with advanced regression modeling including:
+> - Logistic regression for match outcome prediction
+> - Multiple linear regression with regularization for salary analysis  
+> - Polynomial regression for age-performance relationships
+> - Full statistical testing and model evaluation
+> 
+> For detailed regression implementation, see `analysis/regression_analysis.ipynb`
 
 ---
 
